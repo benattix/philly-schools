@@ -1,0 +1,372 @@
+School|School ID|Full Address|Rpt Type Long|Governance|Achievement_Score_Final|Progress_Score_Final|Climate_Score_Final|Overall_Score_Final|Latitude|Longitude|ASSAULTS|BOMB SCARE|BULLYING|BURGLARY|DISORDERLY CONDUCT|DRUG AND ALCOHOL OFFENSES|FIRE - INCENDIARY|GRAFFITI|HARASSMENT|MORALS OFFENSES|ROBBERY|SUICIDE|SUICIDE - ATTEMPTS AND THREATS|TAKE OFF|THEFT|THREAT|TRESPASSING|VANDALISM|WEAPONS|Safety_incidents|SafetyScore
+John Bartram High School|101|2401 S 67th St, Philadelphia, PA 19142|High School|District|0.0|28.0|11.0|14|39.9214696666667|-75.23401775|71.0|0.0|2.0|0.0|85.0|30.0|8.0|0.0|3.0|10.0|10.0|0.0|0.0|0.0|21.0|16.0|4.0|38.0|29.0|107.0|46.0
+West Philadelphia High School|102|4901 Chestnut St, Philadelphia, PA 19139|High School|District|0.0|44.0|14.0|22|39.9585868|-75.2194308877896|40.0|3.0|3.0|0.0|62.0|30.0|1.0|1.0|2.0|3.0|5.0|0.0|0.0|0.0|19.0|12.0|0.0|8.0|18.0|69.0|65.0
+High School of the Future|103|4021 Parkside Ave, Philadelphia, PA 19104|High School|District|3.0|27.0|46.0|23|39.9746780740741|-75.2048263703704|52.0|0.0|0.0|0.0|84.0|16.0|0.0|0.0|1.0|5.0|3.0|0.0|0.0|0.0|34.0|9.0|1.0|17.0|5.0|90.0|54.0
+Paul Robeson High School for Human Services|105|4125 Ludlow St, Philadelphia, PA 19104|High School|District|0.0|60.0|61.0|41|39.956796755102|-75.2048327346939|1.0|0.0|0.0|0.0|10.0|0.0|1.0|0.0|0.0|0.0|1.0|0.0|0.0|0.0|3.0|0.0|1.0|0.0|1.0|5.0|97.0
+William L. Sayre High School|110|5800 Walnut St, Philadelphia, PA 19139|High School|District|0.0|13.0|12.0|8|39.958371|-75.237623|70.0|0.0|0.0|4.0|100.0|34.0|4.0|0.0|0.0|5.0|7.0|1.0|0.0|0.0|12.0|14.0|17.0|8.0|17.0|93.0|53.0
+William T. Tilden School|113|6601 Elmwood Ave, Philadelphia, PA 19142|Middle School|District|1.0|19.0|17.0|13|39.9211734090909|-75.2316281818182|65.0|1.0|0.0|1.0|41.0|4.0|4.0|0.0|1.0|5.0|6.0|2.0|0.0|0.0|9.0|19.0|3.0|19.0|15.0|82.0|58.0
+Motivation High School|119|5900 Baltimore Ave, Philadelphia, PA 19143|High School|District|4.0|27.0|55.0|28|39.945169|-75.241869|16.0|0.0|0.0|1.0|24.0|5.0|0.0|0.0|1.0|2.0|0.0|0.0|0.0|0.0|4.0|0.0|0.0|5.0|6.0|22.0|89.0
+John Barry School|120|5900 Race St, Philadelphia, PA 19139|K8 School|District|6.0|83.0|9.0|32|39.964748|-75.238312|56.0|0.0|0.0|0.0|84.0|3.0|3.0|0.0|2.0|8.0|1.0|0.0|0.0|0.0|8.0|10.0|4.0|12.0|16.0|67.0|66.0
+William C. Bryant School|123|6001 Cedar Ave, Philadelphia, PA 19143|K8 School|District|7.0|49.0|14.0|23|39.952533|-75.242895|27.0|0.0|2.0|0.0|79.0|4.0|0.0|0.0|2.0|10.0|1.0|1.0|4.0|0.0|2.0|22.0|2.0|9.0|9.0|34.0|83.0
+Joseph W. Catharine School|125|6600 Chester Ave, Philadelphia, PA 19142|Elementary School|District|21.0|26.0|51.0|32|39.92788|-75.239539|1.0|0.0|1.0|0.0|16.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|4.0|2.0|0.0|4.0|2.0|6.0|97.0
+Benjamin B. Comegys School|126|5100 Greenway Ave, Philadelphia, PA 19143|K8 School|District|3.0|1.0|11.0|5|39.940013|-75.216421|26.0|0.0|1.0|2.0|36.0|1.0|5.0|0.0|4.0|2.0|1.0|0.0|1.0|0.0|3.0|11.0|1.0|3.0|8.0|37.0|81.0
+Sadie Alexander School|128|4209 Spruce St, Philadelphia, PA 19104|K8 School|District|86.0|77.0|95.0|85|39.9523338333333|-75.2071695|0.0|0.0|0.0|0.0|4.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|1.0|0.0|0.0|100.0
+Andrew Hamilton School|129|5640 Spruce St, Philadelphia, PA 19139|K8 School|District|6.0|13.0|11.0|11|39.9555371836735|-75.2343130612245|33.0|0.0|0.0|0.0|39.0|3.0|0.0|0.0|1.0|3.0|0.0|0.0|0.0|0.0|6.0|14.0|3.0|5.0|8.0|40.0|80.0
+Avery D. Harrington School|130|5300 Baltimore Ave, Philadelphia, PA 19143|K8 School|District|10.0|0.0|7.0|6|39.947712|-75.230033|30.0|0.0|0.0|0.0|47.0|1.0|1.0|1.0|3.0|3.0|0.0|1.0|0.0|0.0|2.0|12.0|1.0|12.0|5.0|35.0|82.0
+Henry C. Lea School|134|4700 Locust St, Philadelphia, PA 19139|K8 School|District|15.0|83.0|25.0|41|39.954524|-75.216047|18.0|0.0|0.0|0.0|113.0|2.0|2.0|0.0|2.0|6.0|0.0|0.0|3.0|0.0|21.0|11.0|0.0|17.0|6.0|41.0|79.0
+William C. Longstreth School|135|5700 Willows Ave, Philadelphia, PA 19143|K8 School|District|1.0|64.0|19.0|28|39.93985555|-75.2329545049643|17.0|0.0|0.0|0.0|33.0|2.0|2.0|1.0|3.0|2.0|0.0|0.0|0.0|0.0|0.0|4.0|0.0|7.0|5.0|20.0|90.0
+Morton McMichael School|136|3543 Fairmount Ave, Philadelphia, PA 19104|K8 School|District|14.0|71.0|12.0|32|39.96668765|-75.1946214050501|13.0|0.0|1.0|0.0|17.0|1.0|1.0|0.0|1.0|3.0|0.0|0.0|1.0|0.0|3.0|8.0|1.0|9.0|4.0|18.0|91.0
+S. Weir Mitchell School|137|5500 Kingsessing Ave, Philadelphia, PA 19143|K8 School|District|4.0|65.0|17.0|29|39.937499|-75.223059|53.0|0.0|0.0|3.0|80.0|4.0|3.0|0.0|1.0|7.0|2.0|1.0|2.0|0.0|7.0|19.0|5.0|14.0|22.0|66.0|66.0
+Thomas G. Morton School|138|2501 S 63rd St, Philadelphia, PA 19142|Elementary School|District|10.0|75.0|34.0|42|39.9238843673469|-75.2276884183674|13.0|0.0|1.0|0.0|39.0|0.0|0.0|0.0|0.0|4.0|0.0|3.0|0.0|0.0|1.0|6.0|0.0|4.0|4.0|15.0|92.0
+Samuel Powel School|139|301 N 36th St, Philadelphia, PA 19104|Elementary School|District|39.0|2.0|87.0|43|39.960015|-75.193705|0.0|0.0|0.0|0.0|5.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|1.0|0.0|100.0
+John M. Patterson School|140|7000 Buist Ave, Philadelphia, PA 19142|Elementary School|District|7.0|62.0|59.0|44|39.915892|-75.236071|0.0|0.0|0.0|0.0|2.0|1.0|0.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|4.0|1.0|0.0|0.0|4.0|4.0|98.0
+James Rhoads School|141|4901 Parrish St, Philadelphia, PA 19139|K8 School|District|4.0|15.0|10.0|10|39.967337|-75.218817|39.0|0.0|1.0|1.0|67.0|2.0|1.0|0.0|5.0|6.0|1.0|1.0|1.0|0.0|2.0|19.0|0.0|2.0|8.0|49.0|75.0
+Martha Washington School|142|766 N 44th St, Philadelphia, PA 19104|K8 School|District|13.0|6.0|15.0|11|39.9650669470042|-75.2109864172461|12.0|0.0|0.0|0.0|33.0|3.0|0.0|0.0|1.0|2.0|0.0|0.0|1.0|0.0|7.0|3.0|2.0|14.0|6.0|20.0|90.0
+Penrose School|144|2515 S 78th St, Philadelphia, PA 19153|K8 School|District|15.0|29.0|25.0|23|39.9068627142857|-75.248548|27.0|0.0|1.0|0.0|63.0|2.0|4.0|0.0|3.0|5.0|0.0|0.0|0.0|0.0|6.0|13.0|2.0|4.0|2.0|37.0|81.0
+Add B. Anderson School|146|1034 S 60th St, Philadelphia, PA 19143|K8 School|District|8.0|9.0|14.0|10|39.9469293157895|-75.2440074736842|19.0|0.0|1.0|0.0|24.0|3.0|1.0|0.0|2.0|2.0|1.0|0.0|1.0|0.0|2.0|5.0|0.0|3.0|4.0|25.0|87.0
+Alain Locke School|147|4550 Haverford Ave, Philadelphia, PA 19139|K8 School|District|4.0|23.0|8.0|12|39.9722294|-75.2478824|24.0|0.0|1.0|1.0|98.0|2.0|2.0|0.0|1.0|0.0|0.0|1.0|2.0|0.0|5.0|7.0|1.0|4.0|6.0|32.0|84.0
+Rudolph Blankenburg School|149|4600 W Girard Ave, Philadelphia, PA 19131|K8 School|District|3.0|54.0|7.0|21|||40.0|0.0|1.0|3.0|74.0|3.0|3.0|0.0|0.0|3.0|3.0|1.0|1.0|0.0|6.0|7.0|5.0|18.0|7.0|53.0|73.0
+Middle Years Alternative School|158|4725 Fairmount Ave, Philadelphia, PA 19139|Middle School|District|18.0|89.0|39.0|52|39.9642401020408|-75.2155489183673|10.0|0.0|0.0|1.0|13.0|0.0|0.0|0.0|0.0|2.0|1.0|2.0|1.0|0.0|1.0|3.0|1.0|1.0|4.0|13.0|93.0
+South Philadelphia High School|200|2101 S Broad St, Philadelphia, PA 19148|High School|District|0.0|6.0|15.0|7|39.924237|-75.169547|41.0|0.0|0.0|1.0|65.0|40.0|2.0|0.0|1.0|7.0|3.0|0.0|2.0|0.0|16.0|21.0|2.0|10.0|18.0|62.0|69.0
+Benjamin Franklin High School|201|550 N Broad St, Philadelphia, PA 19130|High School|District|1.0|8.0|1.0|4|||85.0|3.0|0.0|0.0|96.0|29.0|16.0|0.0|7.0|5.0|9.0|0.0|3.0|0.0|15.0|30.0|12.0|22.0|45.0|116.0|41.0
+High School for Creative and Performing Arts School|202|901 S Broad St, Philadelphia, PA 19147|High School|District|41.0|48.0|62.0|51|39.93946415|-75.1660589572725|6.0|0.0|0.0|0.0|19.0|2.0|0.0|0.0|2.0|1.0|1.0|0.0|0.0|0.0|11.0|3.0|0.0|0.0|2.0|20.0|90.0
+Julia R. Masterman School|214|1699 Spring Garden St, Philadelphia, PA 19130|High School|District|97.0|57.0|96.0|83|39.96348955|-75.1656980581321|0.0|0.0|1.0|0.0|10.0|1.0|0.0|0.0|1.0|1.0|4.0|0.0|1.0|0.0|12.0|3.0|0.0|2.0|2.0|18.0|91.0
+Julia R. Masterman School|214|1699 Spring Garden St, Philadelphia, PA 19130|High School|District|100.0|41.0|93.0|74|39.96348955|-75.1656980581321|0.0|0.0|1.0|0.0|10.0|1.0|0.0|0.0|1.0|1.0|4.0|0.0|1.0|0.0|12.0|3.0|0.0|2.0|2.0|18.0|91.0
+Julia R. Masterman School|214|1699 Spring Garden St, Philadelphia, PA 19130|Middle School|District|97.0|57.0|96.0|83|39.96348955|-75.1656980581321|0.0|0.0|1.0|0.0|10.0|1.0|0.0|0.0|1.0|1.0|4.0|0.0|1.0|0.0|12.0|3.0|0.0|2.0|2.0|18.0|91.0
+Julia R. Masterman School|214|1699 Spring Garden St, Philadelphia, PA 19130|Middle School|District|100.0|41.0|93.0|74|39.96348955|-75.1656980581321|0.0|0.0|1.0|0.0|10.0|1.0|0.0|0.0|1.0|1.0|4.0|0.0|1.0|0.0|12.0|3.0|0.0|2.0|2.0|18.0|91.0
+Furness High School|216|1900 S 3rd St, Philadelphia, PA 19148|High School|District|2.0|42.0|42.0|27|||27.0|0.0|1.0|1.0|50.0|16.0|0.0|1.0|3.0|4.0|3.0|0.0|0.0|0.0|5.0|19.0|0.0|15.0|8.0|40.0|80.0
+D. Newlin Fell School|219|900 W Oregon Ave, Philadelphia, PA 19148|K8 School|District|45.0|89.0|66.0|68|||4.0|0.0|0.0|0.0|15.0|2.0|0.0|0.0|1.0|0.0|1.0|1.0|0.0|0.0|4.0|4.0|1.0|0.0|4.0|10.0|95.0
+Bache-Martin School|221|2201 Brown St, Philadelphia, PA 19130|K8 School|District|27.0|5.0|39.0|24|39.969687|-75.173998|23.0|0.0|0.0|1.0|45.0|1.0|0.0|0.0|5.0|5.0|0.0|2.0|0.0|0.0|1.0|7.0|0.0|5.0|2.0|30.0|85.0
+F. Amedee Bregy School|224|1700 Bigler St, Philadelphia, PA 19145|K8 School|District|8.0|51.0|27.0|29|39.914713|-75.17619|22.0|0.0|0.0|0.0|43.0|2.0|0.0|0.0|0.0|1.0|0.0|0.0|1.0|0.0|2.0|9.0|0.0|6.0|3.0|24.0|88.0
+George W. Childs School|226|1599 Wharton St, Philadelphia, PA 19146|K8 School|District|22.0|56.0|41.0|41|39.934623|-75.170653|14.0|0.0|2.0|0.0|38.0|4.0|1.0|0.0|1.0|2.0|0.0|0.0|0.0|0.0|7.0|9.0|2.0|8.0|6.0|24.0|88.0
+Franklin Learning Center|229|616 N 15th St, Philadelphia, PA 19130|High School|District|11.0|26.0|61.0|32|39.9661797058824|-75.1624401764706|13.0|0.0|0.0|0.0|23.0|1.0|1.0|0.0|0.0|0.0|2.0|2.0|1.0|0.0|8.0|2.0|0.0|5.0|5.0|23.0|88.0
+Stephen Girard School|232|1800 Snyder Ave, Philadelphia, PA 19145|Elementary School|District|16.0|58.0|40.0|40|39.9248761|-75.1735125|18.0|0.0|1.0|0.0|155.0|0.0|0.0|0.0|2.0|1.0|0.0|0.0|0.0|0.0|1.0|6.0|0.0|2.0|2.0|22.0|89.0
+General George A. McCall School|234|325 S 7th St, Philadelphia, PA 19106|K8 School|District|70.0|81.0|86.0|79|||0.0|0.0|0.0|0.0|3.0|1.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|1.0|1.0|0.0|0.0|1.0|1.0|99.0
+Delaplaine McDaniel School|237|1801 S 22nd St, Philadelphia, PA 19145|K8 School|District|4.0|55.0|15.0|27|39.929594|-75.181865|39.0|0.0|1.0|0.0|89.0|2.0|1.0|1.0|2.0|3.0|0.0|0.0|0.0|0.0|5.0|14.0|3.0|19.0|11.0|47.0|76.0
+William M. Meredith School|238|725 S 5th St, Philadelphia, PA 19147|K8 School|District|76.0|28.0|94.0|63|||1.0|0.0|0.0|0.0|7.0|0.0|0.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|2.0|2.0|0.0|3.0|0.0|3.0|98.0
+Robert Morris School|239|2600 W Thompson St, Philadelphia, PA 19121|K8 School|District|4.0|10.0|26.0|13|||27.0|1.0|0.0|0.0|75.0|1.0|3.0|0.0|2.0|6.0|0.0|1.0|0.0|0.0|3.0|20.0|1.0|9.0|7.0|32.0|84.0
+Girard Academic Music Program|241|2136 W Ritner St, Philadelphia, PA 19145|High School|District|56.0|73.0|77.0|69|39.9221181836735|-75.1826102040816|3.0|0.0|0.0|1.0|4.0|1.0|1.0|0.0|0.0|1.0|2.0|0.0|0.0|0.0|5.0|1.0|0.0|0.0|3.0|11.0|94.0
+Girard Academic Music Program|241|2136 W Ritner St, Philadelphia, PA 19145|High School|District|84.0|46.0|93.0|72|39.9221181836735|-75.1826102040816|3.0|0.0|0.0|1.0|4.0|1.0|1.0|0.0|0.0|1.0|2.0|0.0|0.0|0.0|5.0|1.0|0.0|0.0|3.0|11.0|94.0
+Girard Academic Music Program|241|2136 W Ritner St, Philadelphia, PA 19145|Middle School|District|56.0|73.0|77.0|69|39.9221181836735|-75.1826102040816|3.0|0.0|0.0|1.0|4.0|1.0|1.0|0.0|0.0|1.0|2.0|0.0|0.0|0.0|5.0|1.0|0.0|0.0|3.0|11.0|94.0
+Girard Academic Music Program|241|2136 W Ritner St, Philadelphia, PA 19145|Middle School|District|84.0|46.0|93.0|72|39.9221181836735|-75.1826102040816|3.0|0.0|0.0|1.0|4.0|1.0|1.0|0.0|0.0|1.0|2.0|0.0|0.0|0.0|5.0|1.0|0.0|0.0|3.0|11.0|94.0
+Edwin M. Stanton School|245|901 S 17th St, Philadelphia, PA 19146|K8 School|District|17.0|76.0|41.0|45|39.94049825|-75.1712624166667|11.0|0.0|1.0|0.0|48.0|1.0|2.0|0.0|0.0|0.0|0.0|3.0|0.0|0.0|1.0|9.0|0.0|8.0|5.0|13.0|93.0
+Albert M. Greenfield School|247|2200 Chestnut St, Philadelphia, PA 19103|K8 School|District|68.0|10.0|84.0|51|39.9522899|-75.1776507939139|4.0|0.0|0.0|0.0|4.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|2.0|1.0|0.0|1.0|1.0|6.0|97.0
+Chester A. Arthur School|248|2000 Catharine St, Philadelphia, PA 19146|K8 School|District|24.0|47.0|55.0|42|39.941927|-75.175854|6.0|0.0|0.0|0.0|33.0|1.0|0.0|0.0|1.0|3.0|0.0|2.0|0.0|0.0|3.0|12.0|0.0|1.0|4.0|10.0|95.0
+Laura W. Waring School|249|1801 Green St, Philadelphia, PA 19130|K8 School|District|11.0|37.0|16.0|22|39.9644892|-75.1674568|3.0|0.0|0.0|0.0|10.0|0.0|0.0|0.0|1.0|0.0|0.0|1.0|0.0|0.0|1.0|1.0|0.0|0.0|2.0|5.0|97.0
+Andrew Jackson School|251|1213 S 12th St, Philadelphia, PA 19147|K8 School|District|28.0|56.0|63.0|50|39.9146021|-75.167874|3.0|0.0|0.0|0.0|27.0|0.0|3.0|0.0|1.0|1.0|0.0|0.0|0.0|0.0|1.0|4.0|0.0|5.0|3.0|5.0|97.0
+Abram S. Jenks School|252|2501 S 13th St, Philadelphia, PA 19148|Elementary School|District|64.0|34.0|83.0|60|39.918181|-75.168764|0.0|0.0|0.0|0.0|10.0|0.0|1.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|100.0
+Francis S. Key School|254|2230 S 8th St, Philadelphia, PA 19148|Elementary School|District|11.0|16.0|87.0|36|39.92129685|-75.1602319|1.0|0.0|0.0|0.0|13.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|2.0|3.0|0.0|0.0|1.0|3.0|98.0
+Eliza B. Kirkbride School|258|1501 S 7th St, Philadelphia, PA 19147|K8 School|District|43.0|86.0|82.0|70|39.9300783571429|-75.1567022142857|2.0|0.0|1.0|0.0|7.0|1.0|0.0|0.0|0.0|1.0|0.0|0.0|1.0|0.0|2.0|2.0|0.0|1.0|0.0|5.0|97.0
+George W. Nebinger School|259|601 Carpenter St, Philadelphia, PA 19147|K8 School|District|20.0|35.0|49.0|35|39.9368374|-75.1539382080105|7.0|0.0|0.0|0.0|11.0|0.0|1.0|0.0|1.0|1.0|1.0|0.0|0.0|0.0|2.0|7.0|0.0|9.0|1.0|11.0|94.0
+Academy at Palumbo|262|1100 Catharine St, Philadelphia, PA 19147|High School|District|58.0|61.0|83.0|67|39.940224|-75.162107|7.0|0.0|0.0|1.0|3.0|6.0|1.0|0.0|1.0|0.0|1.0|0.0|0.0|0.0|5.0|2.0|2.0|2.0|5.0|15.0|92.0
+George W. Sharswood School|263|2300 S 2nd St, Philadelphia, PA 19148|K8 School|District|15.0|79.0|42.0|48|||11.0|0.0|0.0|0.0|21.0|1.0|0.0|0.0|3.0|3.0|0.0|0.0|0.0|0.0|2.0|6.0|0.0|1.0|2.0|16.0|92.0
+Southwark School|264|1835 S 9th St, Philadelphia, PA 19148|K8 School|District|11.0|78.0|67.0|54|39.9263211428571|-75.1605288095238|34.0|0.0|10.0|1.0|76.0|1.0|0.0|0.0|6.0|9.0|0.0|4.0|0.0|0.0|2.0|10.0|0.0|4.0|8.0|53.0|73.0
+Science Leadership Academy|265|55 N 22nd St, Philadelphia, PA 19103|High School|District|65.0|49.0|84.0|66|||3.0|0.0|0.0|2.0|11.0|2.0|0.0|0.0|0.0|1.0|0.0|1.0|0.0|0.0|10.0|1.0|0.0|1.0|2.0|15.0|92.0
+Constitution High School|267|18 S 7th St, Philadelphia, PA 19106|High School|District|23.0|73.0|48.0|51|||4.0|0.0|0.0|0.0|20.0|3.0|1.0|0.0|0.0|3.0|1.0|2.0|2.0|0.0|4.0|3.0|0.0|1.0|5.0|9.0|95.0
+The Science Leadership Academy at Beeber|268|5925 Malvern Ave, Philadelphia, PA 19131|High School|District|33.0|49.0|67.0|50|39.9860388333333|-75.2420516111111|0.0|0.0|0.0|0.0|3.0|1.0|0.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|2.0|1.0|0.0|1.0|0.0|2.0|99.0
+John H. Taggart School|269|400 W Porter St, Philadelphia, PA 19148|K8 School|District|13.0|71.0|60.0|49|||3.0|0.0|0.0|0.0|7.0|1.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|1.0|0.0|0.0|1.0|1.0|4.0|98.0
+Vare-Washington School|272|1198 S 5th St, Philadelphia, PA 19147|K8 School|District|21.0|83.0|68.0|57|39.9335589791667|-75.1524863333333|9.0|0.0|0.0|1.0|15.0|0.0|0.0|0.0|2.0|1.0|0.0|2.0|0.0|0.0|7.0|4.0|0.0|2.0|3.0|19.0|90.0
+Overbrook High School|402|5898 Lancaster Ave, Philadelphia, PA 19131|High School|District|1.0|8.0|3.0|4|39.981825|-75.238939|94.0|0.0|0.0|1.0|66.0|50.0|5.0|0.0|2.0|3.0|13.0|1.0|1.0|0.0|15.0|25.0|3.0|7.0|33.0|125.0|37.0
+High School of Engineering and Science|403|1600 W Norris St, Philadelphia, PA 19121|High School|District|71.0|78.0|80.0|76|||3.0|1.0|0.0|0.0|11.0|1.0|0.0|0.0|3.0|3.0|2.0|0.0|0.0|0.0|4.0|2.0|0.0|0.0|3.0|12.0|94.0
+High School of Engineering and Science|403|1600 W Norris St, Philadelphia, PA 19121|High School|District|58.0|19.0|94.0|54|||3.0|1.0|0.0|0.0|11.0|1.0|0.0|0.0|3.0|3.0|2.0|0.0|0.0|0.0|4.0|2.0|0.0|0.0|3.0|12.0|94.0
+High School of Engineering and Science|403|1600 W Norris St, Philadelphia, PA 19121|Middle School|District|71.0|78.0|80.0|76|||3.0|1.0|0.0|0.0|11.0|1.0|0.0|0.0|3.0|3.0|2.0|0.0|0.0|0.0|4.0|2.0|0.0|0.0|3.0|12.0|94.0
+High School of Engineering and Science|403|1600 W Norris St, Philadelphia, PA 19121|Middle School|District|58.0|19.0|94.0|54|||3.0|1.0|0.0|0.0|11.0|1.0|0.0|0.0|3.0|3.0|2.0|0.0|0.0|0.0|4.0|2.0|0.0|0.0|3.0|12.0|94.0
+Murrell Dobbins Career and Technical High School|406|2150 W Lehigh Ave, Philadelphia, PA 19132|High School|District|0.0|18.0|22.0|18|39.9962954|-75.1728148|41.0|0.0|8.0|2.0|70.0|15.0|2.0|2.0|6.0|4.0|0.0|0.0|0.0|0.0|14.0|16.0|3.0|29.0|14.0|71.0|64.0
+Strawberry Mansion High School|414|3133 Ridge Ave, Philadelphia, PA 19121|High School|District|0.0|7.0|5.0|5|39.9897669705882|-75.1843722058824|32.0|0.0|0.0|0.0|52.0|15.0|5.0|0.0|1.0|3.0|4.0|0.0|1.0|0.0|17.0|22.0|4.0|7.0|23.0|54.0|73.0
+James G. Blaine School|422|3001 W Berks St, Philadelphia, PA 19121|K8 School|District|11.0|76.0|30.0|39|39.985263|-75.184031|23.0|0.0|0.0|0.0|61.0|2.0|3.0|0.0|3.0|7.0|0.0|0.0|1.0|0.0|3.0|8.0|0.0|7.0|9.0|29.0|85.0
+Lewis C. Cassidy Academics Plus School|424|6523 Lansdowne Ave, Philadelphia, PA 19151|K8 School|District|5.0|73.0|10.0|32|39.9763852|-75.236088|15.0|0.0|0.0|0.0|75.0|0.0|1.0|0.0|3.0|9.0|1.0|0.0|1.0|0.0|4.0|13.0|0.0|15.0|4.0|23.0|88.0
+William Dick School|427|2498 W Diamond St, Philadelphia, PA 19121|K8 School|District|3.0|20.0|27.0|17|39.986922|-75.174221|7.0|0.0|0.0|2.0|23.0|0.0|3.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|3.0|5.0|0.0|16.0|2.0|12.0|94.0
+Samuel Gompers School|428|5701 Wynnefield Ave, Philadelphia, PA 19131|K8 School|District|12.0|44.0|23.0|26|39.992054|-75.237678|4.0|0.0|0.0|2.0|46.0|1.0|0.0|1.0|1.0|2.0|0.0|1.0|0.0|0.0|0.0|4.0|0.0|10.0|10.0|7.0|96.0
+Edward Heston School|430|1621 N 54th St, Philadelphia, PA 19131|K8 School|District|3.0|21.0|4.0|9|39.9778357272727|-75.2298864545455|24.0|1.0|1.0|1.0|107.0|4.0|2.0|0.0|5.0|6.0|2.0|4.0|1.0|0.0|10.0|15.0|0.0|1.0|14.0|43.0|78.0
+Robert E. Lamberton School|432|7501 Woodbine Ave, Philadelphia, PA 19151|K8 School|District|4.0|0.0|21.0|9|39.975645|-75.265751|34.0|0.0|0.0|0.0|85.0|2.0|5.0|0.0|3.0|6.0|0.0|1.0|2.0|0.0|4.0|8.0|0.0|4.0|5.0|41.0|79.0
+E. Washington Rhodes School|435|2900 W Clearfield St, Philadelphia, PA 19132|K8 School|District|2.0|9.0|11.0|8|40.003037|-75.177426|41.0|0.0|1.0|0.0|123.0|6.0|1.0|0.0|3.0|12.0|3.0|0.0|0.0|0.0|6.0|33.0|5.0|33.0|11.0|54.0|73.0
+Kenderton Elementary School|436|1500 W Ontario St, Philadelphia, PA 19140|K8 School|District|3.0|39.0|6.0|16|||10.0|0.0|0.0|0.0|20.0|0.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|0.0|3.0|4.0|0.0|4.0|1.0|14.0|93.0
+Overbrook School|437|2032 N 62nd St, Philadelphia, PA 19151|K8 School|District|19.0|35.0|23.0|25|39.9824260578497|-75.2456255254763|3.0|0.0|0.0|0.0|7.0|0.0|1.0|0.0|0.0|1.0|0.0|1.0|0.0|0.0|0.0|3.0|0.0|2.0|0.0|3.0|98.0
+Thomas M. Peirce School|438|2300 W Cambria St, Philadelphia, PA 19132|Elementary School|District|6.0|68.0|3.0|29|39.998843|-75.168677|5.0|0.0|0.0|0.0|10.0|0.0|0.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|0.0|5.0|0.0|3.0|1.0|5.0|97.0
+Dr. Ethel Allen School|444|3200 W Lehigh Ave, Philadelphia, PA 19132|K8 School|District|3.0|41.0|15.0|22|39.997599877193|-75.1835767368421|32.0|0.0|2.0|0.0|66.0|4.0|2.0|0.0|1.0|12.0|2.0|0.0|1.0|0.0|15.0|16.0|0.0|18.0|8.0|52.0|74.0
+Tanner G. Duckrey School|446|1501 W Diamond St, Philadelphia, PA 19121|K8 School|District|2.0|81.0|14.0|35|39.9853869|-75.1589757|20.0|0.0|0.0|1.0|35.0|1.0|4.0|0.0|1.0|6.0|1.0|0.0|0.0|0.0|13.0|13.0|0.0|3.0|10.0|36.0|82.0
+Richard R. Wright School|447|2700 W Dauphin St, Philadelphia, PA 19132|Elementary School|District|10.0|78.0|14.0|34|39.990519|-75.177041|18.0|0.0|0.0|0.0|113.0|2.0|3.0|0.0|0.0|20.0|0.0|2.0|1.0|0.0|3.0|6.0|1.0|1.0|10.0|21.0|89.0
+Overbrook Educational Center|448|6722 Lansdowne Ave, Philadelphia, PA 19151|K8 School|District|24.0|79.0|85.0|63|39.9763852|-75.236088|3.0|0.0|0.0|0.0|4.0|0.0|0.0|0.0|0.0|3.0|0.0|0.0|0.0|0.0|1.0|0.0|1.0|0.0|1.0|4.0|98.0
+Edward Gideon School|453|2817 W Glenwood Ave, Philadelphia, PA 19121|K8 School|District|3.0|26.0|6.0|12|39.9844810153255|-75.1801594476298|7.0|0.0|0.0|0.0|19.0|1.0|3.0|1.0|1.0|0.0|0.0|0.0|0.0|0.0|1.0|5.0|1.0|19.0|4.0|9.0|95.0
+William D. Kelley School|456|1601 N 28th St, Philadelphia, PA 19121|K8 School|District|10.0|40.0|5.0|18|||11.0|0.0|0.0|0.0|15.0|1.0|0.0|0.0|0.0|0.0|0.0|1.0|1.0|0.0|2.0|3.0|2.0|0.0|4.0|13.0|93.0
+General George G. Meade School|457|1600 N 18th St, Philadelphia, PA 19121|K8 School|District|3.0|73.0|8.0|28|||14.0|0.0|0.0|0.0|28.0|0.0|0.0|0.0|0.0|4.0|0.0|0.0|0.0|0.0|4.0|7.0|1.0|20.0|3.0|18.0|91.0
+Thomas A. Edison High School|502|151 W Luzerne St, Philadelphia, PA 19140|High School|District|0.0|20.0|12.0|12|40.0111563677283|-75.1286291342069|150.0|2.0|0.0|0.0|212.0|74.0|13.0|0.0|5.0|9.0|7.0|2.0|3.0|0.0|29.0|40.0|7.0|45.0|49.0|191.0|3.0
+Philadelphia Military Academy|505|2118 N 13th St, Philadelphia, PA 19122|High School|District|6.0|58.0|52.0|41|39.9847758163265|-75.1544358163265|13.0|0.0|0.0|0.0|9.0|1.0|0.0|0.0|3.0|2.0|2.0|0.0|0.0|0.0|3.0|2.0|0.0|0.0|2.0|21.0|89.0
+Jules E. Mastbaum Area Vocational Technical High School|506|3116 Frankford Ave, Philadelphia, PA 19134|High School|District|4.0|23.0|33.0|20|39.992194|-75.112036|26.0|0.0|1.0|1.0|32.0|10.0|6.0|3.0|1.0|6.0|4.0|0.0|4.0|0.0|9.0|11.0|1.0|36.0|11.0|42.0|79.0
+Parkway Northwest High School|507|6200 Crittenden St, Philadelphia, PA 19138|High School|District|5.0|25.0|53.0|29|40.056725|-75.164713|9.0|0.0|0.0|0.0|34.0|1.0|0.0|0.0|5.0|2.0|2.0|0.0|0.0|0.0|11.0|7.0|0.0|9.0|3.0|27.0|86.0
+Parkway Center City High School|508|540 N 13th St, Philadelphia, PA 19123|High School|District|45.0|91.0|58.0|66|39.9613573469388|-75.1595477959184|3.0|0.0|0.0|0.0|10.0|1.0|0.0|0.0|2.0|1.0|2.0|0.0|0.0|0.0|4.0|3.0|0.0|1.0|1.0|11.0|94.0
+Parkway West High School|509|4725 Fairmount Ave, Philadelphia, PA 19139|High School|District|13.0|40.0|40.0|31|39.9642401020408|-75.2155489183673|9.0|0.0|0.0|0.0|17.0|4.0|1.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|1.0|1.0|0.0|1.0|0.0|10.0|95.0
+William W. Bodine High School|515|1101 N 4th St, Philadelphia, PA 19123|High School|District|38.0|46.0|62.0|51|39.968051|-75.143393|9.0|0.0|0.0|0.0|17.0|3.0|0.0|0.0|1.0|1.0|0.0|0.0|0.0|0.0|6.0|4.0|1.0|3.0|2.0|16.0|92.0
+Penn Treaty High School|516|600 E Thompson St, Philadelphia, PA 19125|High School|District|6.0|54.0|13.0|24|||90.0|0.0|0.0|0.0|100.0|27.0|1.0|1.0|10.0|17.0|9.0|2.0|0.0|0.0|7.0|37.0|3.0|7.0|29.0|116.0|41.0
+Penn Treaty High School|516|600 E Thompson St, Philadelphia, PA 19125|High School|District|3.0|39.0|14.0|19|||90.0|0.0|0.0|0.0|100.0|27.0|1.0|1.0|10.0|17.0|9.0|2.0|0.0|0.0|7.0|37.0|3.0|7.0|29.0|116.0|41.0
+Penn Treaty High School|516|600 E Thompson St, Philadelphia, PA 19125|Middle School|District|6.0|54.0|13.0|24|||90.0|0.0|0.0|0.0|100.0|27.0|1.0|1.0|10.0|17.0|9.0|2.0|0.0|0.0|7.0|37.0|3.0|7.0|29.0|116.0|41.0
+Penn Treaty High School|516|600 E Thompson St, Philadelphia, PA 19125|Middle School|District|3.0|39.0|14.0|19|||90.0|0.0|0.0|0.0|100.0|27.0|1.0|1.0|10.0|17.0|9.0|2.0|0.0|0.0|7.0|37.0|3.0|7.0|29.0|116.0|41.0
+Julia de Burgos School|517|401 W Lehigh Ave, Philadelphia, PA 19133|K8 School|District|4.0|82.0|28.0|41|39.9927382|-75.13863195|25.0|0.0|0.0|0.0|33.0|2.0|4.0|0.0|5.0|6.0|0.0|0.0|0.0|0.0|2.0|18.0|0.0|10.0|12.0|32.0|84.0
+Alexander Adaire School|520|1300 E Palmer St, Philadelphia, PA 19125|K8 School|District|34.0|24.0|64.0|41|||8.0|0.0|0.0|0.0|5.0|1.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|2.0|4.0|0.0|0.0|2.0|10.0|95.0
+Henry A. Brown School|521|1946 E Sergeant St, Philadelphia, PA 19125|K8 School|District|15.0|86.0|42.0|47|39.9866252040816|-75.1272725102041|16.0|0.0|0.0|0.0|16.0|2.0|1.0|0.0|2.0|1.0|0.0|0.0|0.0|0.0|0.0|8.0|0.0|6.0|0.0|18.0|91.0
+Russell H. Conwell School|523|1849 E Clearfield St, Philadelphia, PA 19134|Middle School|District|30.0|54.0|66.0|51|39.9941445|-75.1150085|20.0|0.0|3.0|1.0|41.0|0.0|2.0|0.0|2.0|3.0|1.0|0.0|0.0|0.0|4.0|16.0|0.0|17.0|4.0|31.0|84.0
+Paul L. Dunbar School|525|1750 N 12th St, Philadelphia, PA 19122|K8 School|District|6.0|86.0|31.0|41|||12.0|0.0|1.0|0.0|50.0|0.0|1.0|0.0|1.0|3.0|0.0|0.0|0.0|0.0|2.0|8.0|0.0|3.0|9.0|16.0|92.0
+Lewis Elkin School|526|3199 D St, Philadelphia, PA 19134|Elementary School|District|2.0|43.0|15.0|22|39.997372|-75.121183|9.0|0.0|1.0|0.0|120.0|4.0|4.0|0.0|3.0|3.0|0.0|0.0|2.0|0.0|6.0|7.0|0.0|6.0|14.0|19.0|90.0
+Horatio B. Hackett School|530|2161 E York St, Philadelphia, PA 19125|Elementary School|District|31.0|45.0|75.0|51|39.9807702631579|-75.1271759736842|0.0|0.0|0.0|0.0|25.0|0.0|1.0|0.0|0.0|1.0|0.0|1.0|0.0|0.0|2.0|1.0|0.0|0.0|1.0|2.0|99.0
+John F. Hartranft School|532|720 W Cumberland St, Philadelphia, PA 19133|K8 School|District|9.0|87.0|31.0|42|39.9894339166667|-75.1448088333333|16.0|0.0|1.0|3.0|37.0|1.0|1.0|0.0|2.0|1.0|0.0|0.0|0.0|0.0|4.0|16.0|0.0|2.0|8.0|26.0|87.0
+William H. Hunter School|533|2400 N Front St, Philadelphia, PA 19133|K8 School|District|3.0|24.0|25.0|18|||7.0|0.0|1.0|1.0|27.0|4.0|0.0|1.0|1.0|5.0|1.0|0.0|0.0|0.0|1.0|13.0|0.0|4.0|3.0|12.0|94.0
+James R. Ludlow School|534|550 W Master St, Philadelphia, PA 19122|K8 School|District|15.0|30.0|30.0|25|39.977868|-75.184991|16.0|0.0|0.0|0.0|28.0|3.0|0.0|0.0|1.0|1.0|0.0|0.0|0.0|0.0|6.0|5.0|2.0|2.0|2.0|23.0|88.0
+William McKinley School|535|2101 N Orkney St, Philadelphia, PA 19122|K8 School|District|5.0|0.0|23.0|9|39.982888|-75.141613|11.0|0.0|0.0|0.0|29.0|1.0|1.0|0.0|1.0|0.0|1.0|0.0|0.0|0.0|3.0|20.0|0.0|1.0|7.0|16.0|92.0
+John Moffet School|537|127 W Oxford St, Philadelphia, PA 19122|Elementary School|District|23.0|32.0|39.0|31|39.9743749333333|-75.1348704666667|3.0|0.0|0.0|0.0|17.0|2.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|3.0|3.0|0.0|0.0|4.0|6.0|97.0
+Potter-Thomas School|539|3001 N 6th St, Philadelphia, PA 19133|K8 School|District|2.0|87.0|22.0|41|39.9972148|-75.1403785541184|10.0|0.0|0.0|1.0|9.0|1.0|3.0|0.0|0.0|2.0|0.0|0.0|1.0|0.0|1.0|12.0|0.0|4.0|7.0|12.0|94.0
+Richmond School|540|2944 Belgrade St, Philadelphia, PA 19134|Elementary School|District|20.0|14.0|34.0|22|39.983087|-75.110276|6.0|0.0|0.0|0.0|44.0|0.0|1.0|0.0|1.0|3.0|0.0|0.0|0.0|0.0|3.0|5.0|0.0|1.0|7.0|10.0|95.0
+Isaac A. Sheppard School|541|120 W Cambria St, Philadelphia, PA 19133|Elementary School|District|6.0|52.0|43.0|33|||0.0|0.0|0.0|0.0|9.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|1.0|1.0|0.0|5.0|1.0|1.0|99.0
+John Welsh School|542|2331 N 4th St, Philadelphia, PA 19133|K8 School|District|10.0|85.0|25.0|39|39.9866432777778|-75.1393786666667|23.0|0.0|4.0|0.0|82.0|1.0|1.0|0.0|6.0|9.0|0.0|0.0|0.0|0.0|2.0|16.0|0.0|8.0|11.0|35.0|82.0
+Alternative Middle Years at James Martin |543|3380 Richmond St, Philadelphia, PA 19134|Middle School|District|13.0|4.0|42.0|18|39.98527225|-75.0972305|11.0|1.0|0.0|0.0|32.0|3.0|0.0|0.0|2.0|2.0|0.0|0.0|0.0|0.0|4.0|6.0|0.0|8.0|4.0|17.0|91.0
+Frances E. Willard School|544|1930 E Elkhart St, Philadelphia, PA 19134|Elementary School|District|27.0|69.0|35.0|46|39.9926314081633|-75.1152341632653|8.0|0.0|0.0|0.0|36.0|0.0|0.0|0.0|0.0|1.0|0.0|1.0|0.0|0.0|3.0|5.0|0.0|16.0|3.0|11.0|94.0
+William Cramp School|547|3449 N Mascher St, Philadelphia, PA 19140|Elementary School|District|4.0|67.0|47.0|41|40.002497|-75.130367|11.0|0.0|0.0|1.0|45.0|2.0|2.0|0.0|0.0|4.0|0.0|3.0|0.0|0.0|0.0|7.0|0.0|0.0|8.0|12.0|94.0
+General Philip Kearny School|548|601 Fairmount Ave, Philadelphia, PA 19123|K8 School|District|6.0|74.0|10.0|30|39.9641235|-75.1481121052458|4.0|0.0|1.0|0.0|15.0|2.0|2.0|0.0|1.0|3.0|0.0|0.0|0.0|0.0|0.0|6.0|0.0|3.0|1.0|6.0|97.0
+Cayuga School|549|4344-4358 N 5th St, Philadelphia, PA 19140|Elementary School|District|7.0|62.0|23.0|33|||10.0|0.0|0.0|0.0|34.0|2.0|0.0|0.0|0.0|4.0|0.0|0.0|0.0|0.0|1.0|5.0|0.0|0.0|6.0|11.0|94.0
+Thurgood Marshall School|550|5120 N 6th St, Philadelphia, PA 19120|K8 School|District|6.0|51.0|33.0|31|40.0294428979592|-75.1341664285714|13.0|0.0|0.0|0.0|15.0|2.0|1.0|0.0|0.0|2.0|0.0|0.0|0.0|0.0|2.0|4.0|0.0|3.0|7.0|15.0|92.0
+Kensington High School for Creative and Performing Arts|552|1901 N Front St, Philadelphia, PA 19122|High School|District|1.0|23.0|31.0|18|39.977256|-75.133703|28.0|0.0|0.0|0.0|57.0|3.0|0.0|0.0|1.0|2.0|2.0|0.0|1.0|0.0|6.0|9.0|0.0|5.0|15.0|37.0|81.0
+Philip H. Sheridan School|553|800 E Ontario St, Philadelphia, PA 19134|Elementary School|District|6.0|43.0|22.0|25|||0.0|1.0|0.0|0.0|44.0|0.0|0.0|0.0|0.0|1.0|0.0|0.0|1.0|0.0|4.0|6.0|2.0|22.0|1.0|4.0|98.0
+Kensington Health Sciences Academy|555|2463 Emerald St, Philadelphia, PA 19125|High School|District|0.0|40.0|14.0|21|39.985266|-75.1282617368421|13.0|0.0|0.0|0.0|8.0|6.0|0.0|0.0|1.0|1.0|1.0|0.0|0.0|0.0|6.0|9.0|0.0|1.0|8.0|21.0|89.0
+Spring Garden School|556|1146 Melon St, Philadelphia, PA 19123|K8 School|District|11.0|17.0|45.0|24|39.9651727521705|-75.1561612231423|4.0|0.0|0.0|0.0|8.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|1.0|1.0|0.0|3.0|2.0|5.0|97.0
+John H. Webster School|559|3400 Frankford Ave, Philadelphia, PA 19134|Elementary School|District|2.0|52.0|21.0|27|39.996424|-75.104111|20.0|0.0|0.0|0.0|92.0|2.0|1.0|0.0|3.0|4.0|0.0|1.0|0.0|0.0|4.0|11.0|1.0|7.0|9.0|27.0|86.0
+Building 21|561|6501 Limekiln Pike, Philadelphia, PA 19138|High School|District|0.0|14.0|16.0|9|40.054253|-75.15266|22.0|0.0|0.0|0.0|28.0|5.0|3.0|0.0|2.0|0.0|0.0|0.0|1.0|0.0|3.0|8.0|1.0|3.0|5.0|27.0|86.0
+The U School|562|2000 N 7th St, Philadelphia, PA 19122|High School|District|0.0|0.0|31.0|9|||13.0|0.0|0.0|0.0|9.0|6.0|1.0|0.0|1.0|0.0|0.0|0.0|3.0|0.0|6.0|6.0|0.0|1.0|4.0|20.0|90.0
+The LINC|566|122 W Erie Ave, Philadelphia, PA 19140|High School|District|1.0|24.0|18.0|14|||13.0|0.0|1.0|0.0|15.0|3.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|5.0|7.0|0.0|3.0|8.0|19.0|90.0
+Honorable Luis Munoz-Marin School|568|3300 N 3rd St, Philadelphia, PA 19140|K8 School|District|1.0|80.0|28.0|38|||32.0|1.0|2.0|2.0|17.0|1.0|0.0|1.0|2.0|2.0|1.0|0.0|0.0|0.0|3.0|18.0|1.0|6.0|4.0|42.0|79.0
+Kensington High School|570|2501 Coral St, Philadelphia, PA 19125|High School|District|0.0|22.0|16.0|13|39.9847500833333|-75.12692725|7.0|0.0|0.0|0.0|9.0|3.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|7.0|0.0|3.0|4.0|7.0|96.0
+Central High School|601|1700 W Olney Ave, Philadelphia, PA 19141|High School|District|95.0|89.0|92.0|91|40.038897|-75.150156|4.0|1.0|0.0|2.0|19.0|25.0|3.0|1.0|1.0|2.0|7.0|1.0|0.0|0.0|16.0|8.0|3.0|13.0|2.0|30.0|85.0
+Roxborough High School|603|6498 Ridge Ave, Philadelphia, PA 19128|High School|District|0.0|21.0|22.0|14|40.037979|-75.222723|47.0|0.0|1.0|0.0|58.0|56.0|5.0|1.0|5.0|6.0|10.0|2.0|0.0|0.0|12.0|11.0|0.0|14.0|29.0|75.0|62.0
+Walter B. Saul High School|604|7100 Henry Ave, Philadelphia, PA 19128|High School|District|9.0|23.0|50.0|30|40.0487233|-75.2230685773692|5.0|0.0|0.0|0.0|7.0|3.0|1.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|2.0|0.0|1.0|14.0|4.0|7.0|96.0
+Philadelphia High School for Girls|605|1400 W Olney Ave, Philadelphia, PA 19141|High School|District|46.0|63.0|59.0|57|40.038988|-75.144908|7.0|0.0|0.0|1.0|14.0|0.0|2.0|0.0|0.0|1.0|2.0|2.0|1.0|0.0|3.0|3.0|1.0|2.0|2.0|13.0|93.0
+Martin Luther King High School|606|6100 Stenton Ave, Philadelphia, PA 19138|High School|District|0.0|16.0|5.0|8|40.057566|-75.161948|73.0|0.0|2.0|1.0|141.0|43.0|7.0|1.0|4.0|7.0|17.0|2.0|1.0|0.0|19.0|24.0|6.0|29.0|32.0|116.0|41.0
+A. Philip Randolph Career and Technical High School|609|3101 Henry Ave, Philadelphia, PA 19129|High School|District|1.0|44.0|20.0|26|40.008037|-75.179626|29.0|0.0|0.0|1.0|29.0|7.0|1.0|0.0|2.0|2.0|4.0|0.0|0.0|0.0|15.0|7.0|0.0|19.0|12.0|51.0|74.0
+Anna B. Day School|620|6324 Crittenden St, Philadelphia, PA 19138|K8 School|District|10.0|0.0|23.0|11|40.0578232141754|-75.1665203428153|6.0|0.0|0.0|0.0|21.0|0.0|1.0|0.0|1.0|0.0|0.0|1.0|0.0|0.0|1.0|6.0|0.0|1.0|6.0|8.0|96.0
+Franklin S. Edmonds School|621|8025 Thouron Ave, Philadelphia, PA 19150|Elementary School|District|17.0|7.0|49.0|23|40.0717491585396|-75.1692928011309|18.0|0.0|0.0|0.0|55.0|0.0|2.0|0.0|4.0|4.0|0.0|1.0|0.0|0.0|0.0|6.0|0.0|6.0|3.0|22.0|89.0
+Eleanor C. Emlen School|622|6501 Chew Ave, Philadelphia, PA 19119|Elementary School|District|15.0|7.0|33.0|19|40.053701|-75.178044|3.0|0.0|0.0|1.0|23.0|0.0|0.0|0.0|0.0|2.0|0.0|1.0|0.0|0.0|3.0|2.0|0.0|1.0|2.0|7.0|96.0
+Fitler Academics Plus School|623|140 W Seymour St, Philadelphia, PA 19144|K8 School|District|21.0|51.0|59.0|44|40.0265103928571|-75.1666184285714|1.0|0.0|0.0|0.0|4.0|1.0|1.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|2.0|3.0|1.0|99.0
+Charles W. Henry School|625|601 Carpenter Ln, Philadelphia, PA 19119|K8 School|District|34.0|68.0|54.0|52|40.0462266|-75.1964998|7.0|0.0|1.0|1.0|46.0|1.0|1.0|0.0|1.0|5.0|0.0|0.0|1.0|0.0|3.0|0.0|0.0|1.0|5.0|13.0|93.0
+Henry H. Houston School|626|7300 Rural Ln, Philadelphia, PA 19119|K8 School|District|8.0|21.0|32.0|21|40.058529|-75.195046|19.0|0.0|1.0|0.0|36.0|1.0|0.0|0.0|1.0|5.0|1.0|0.0|2.0|0.0|6.0|2.0|0.0|9.0|6.0|28.0|86.0
+Jenks Academy for Arts and Sciences|627|8301 Germantown Ave, Philadelphia, PA 19118|K8 School|District|29.0|63.0|77.0|57|40.074469|-75.203661|4.0|0.0|0.0|0.0|16.0|0.0|0.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|0.0|7.0|0.0|1.0|3.0|4.0|98.0
+James Logan School|630|1700 Lindley Ave, Philadelphia, PA 19141|Elementary School|District|17.0|7.0|41.0|22|40.031195|-75.151532|1.0|0.0|1.0|0.0|19.0|0.0|2.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|0.0|4.0|0.0|0.0|1.0|2.0|99.0
+John F. McCloskey School|631|8500 Pickering St, Philadelphia, PA 19150|K8 School|District|12.0|3.0|23.0|12|||9.0|0.0|0.0|0.0|28.0|0.0|1.0|0.0|0.0|2.0|0.0|0.0|0.0|0.0|3.0|5.0|2.0|6.0|4.0|12.0|94.0
+Thomas Mifflin School|632|3624 Conrad St, Philadelphia, PA 19129|K8 School|District|9.0|10.0|35.0|18|40.0135131357915|-75.1912404496114|3.0|0.0|1.0|0.0|25.0|1.0|0.0|1.0|2.0|1.0|0.0|0.0|1.0|0.0|2.0|3.0|1.0|3.0|1.0|8.0|96.0
+Joseph Pennell School|634|1800 Nedro Ave, Philadelphia, PA 19141|Elementary School|District|7.0|65.0|22.0|34|40.04333095|-75.1507166715908|13.0|0.0|2.0|0.0|51.0|0.0|1.0|0.0|2.0|0.0|0.0|0.0|0.0|0.0|2.0|8.0|0.0|7.0|2.0|19.0|90.0
+Samuel Pennypacker School|635|1858 E Washington Ln, Philadelphia, PA 19138|Elementary School|District|10.0|3.0|5.0|5|40.0570737|-75.1666663|9.0|0.0|1.0|0.0|52.0|0.0|2.0|0.0|2.0|9.0|0.0|0.0|1.0|0.0|3.0|10.0|1.0|7.0|4.0|15.0|92.0
+Theodore Roosevelt School|636|430 E Washington Ln, Philadelphia, PA 19144|K8 School|District|0.0|14.0|2.0|6|||84.0|0.0|3.0|4.0|134.0|13.0|14.0|1.0|9.0|12.0|1.0|1.0|0.0|0.0|15.0|23.0|10.0|63.0|31.0|116.0|41.0
+Shawmont School|638|535 Shawmont Ave, Philadelphia, PA 19128|K8 School|District|29.0|50.0|53.0|45|40.05138495|-75.2384280974225|6.0|0.0|0.0|1.0|17.0|0.0|1.0|0.0|2.0|2.0|0.0|0.0|0.0|0.0|2.0|4.0|0.0|2.0|4.0|11.0|94.0
+Edward T. Steel School|639|4301 Wayne Ave, Philadelphia, PA 19140|K8 School|District|2.0|0.0|14.0|6|40.018526|-75.157608|31.0|0.0|0.0|2.0|42.0|1.0|0.0|0.0|2.0|2.0|0.0|0.0|4.0|0.0|4.0|0.0|4.0|28.0|10.0|39.0|80.0
+Cook-Wissahickon School|641|201 E Salaignac St, Philadelphia, PA 19128|K8 School|District|25.0|34.0|56.0|39|40.021865|-75.207452|2.0|0.0|0.0|0.0|24.0|0.0|1.0|1.0|0.0|0.0|0.0|0.0|0.0|0.0|1.0|3.0|0.0|2.0|0.0|3.0|98.0
+Anna L. Lingelbach School|644|6340 Wayne Ave, Philadelphia, PA 19144|K8 School|District|14.0|55.0|49.0|39|40.0376013673469|-75.1891738979592|5.0|0.0|0.0|0.0|26.0|2.0|0.0|0.0|0.0|4.0|0.0|1.0|1.0|0.0|1.0|5.0|0.0|2.0|4.0|6.0|97.0
+James Dobson School|645|4667 Umbria St, Philadelphia, PA 19127|K8 School|District|30.0|0.0|43.0|24|40.03137165|-75.2304099184479|6.0|0.0|1.0|0.0|28.0|2.0|1.0|0.0|2.0|3.0|0.0|0.0|1.0|0.0|1.0|2.0|0.0|6.0|1.0|10.0|95.0
+Hill-Freedman World Academy|646|1100 E Mt Pleasant Ave, Philadelphia, PA 19150|High School|District|41.0|40.0|68.0|44|||6.0|0.0|0.0|1.0|19.0|1.0|1.0|0.0|4.0|2.0|2.0|0.0|1.0|0.0|4.0|3.0|0.0|2.0|2.0|17.0|91.0
+Hill-Freedman World Academy|646|1100 E Mt Pleasant Ave, Philadelphia, PA 19150|High School|District|29.0|44.0|52.0|42|||6.0|0.0|0.0|1.0|19.0|1.0|1.0|0.0|4.0|2.0|2.0|0.0|1.0|0.0|4.0|3.0|0.0|2.0|2.0|17.0|91.0
+Hill-Freedman World Academy|646|1100 E Mt Pleasant Ave, Philadelphia, PA 19150|Middle School|District|41.0|40.0|68.0|44|||6.0|0.0|0.0|1.0|19.0|1.0|1.0|0.0|4.0|2.0|2.0|0.0|1.0|0.0|4.0|3.0|0.0|2.0|2.0|17.0|91.0
+Hill-Freedman World Academy|646|1100 E Mt Pleasant Ave, Philadelphia, PA 19150|Middle School|District|29.0|44.0|52.0|42|||6.0|0.0|0.0|1.0|19.0|1.0|1.0|0.0|4.0|2.0|2.0|0.0|1.0|0.0|4.0|3.0|0.0|2.0|2.0|17.0|91.0
+John B. Kelly School|647|5116 Pulaski Ave, Philadelphia, PA 19144|Elementary School|District|21.0|74.0|23.0|42|40.0248282857143|-75.1710504489796|9.0|0.0|0.0|1.0|49.0|3.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|5.0|7.0|0.0|0.0|8.0|15.0|92.0
+Academy for the Middle Years at Northwest|648|6000 Ridge Ave, Philadelphia, PA 19128|Middle School|District|33.0|49.0|71.0|51|40.0731656|-75.2429959|6.0|0.0|0.0|0.0|8.0|1.0|0.0|0.0|0.0|1.0|1.0|0.0|0.0|0.0|1.0|2.0|1.0|2.0|6.0|8.0|96.0
+Lankenau High School|654|201 Spring Lane, Philadelphia, PA 19128|High School|District|8.0|50.0|65.0|42|40.06155748487|-75.2529219710656|5.0|0.0|0.0|1.0|13.0|1.0|1.0|0.0|0.0|0.0|1.0|1.0|0.0|0.0|0.0|1.0|0.0|3.0|2.0|7.0|96.0
+Frankford High School|701|5000 Oxford Ave, Philadelphia, PA 19124|High School|District|0.0|21.0|8.0|10|40.022541|-75.084532|90.0|0.0|1.0|1.0|116.0|30.0|4.0|2.0|3.0|6.0|21.0|0.0|2.0|0.0|24.0|37.0|13.0|20.0|43.0|140.0|29.0
+Jay Cooke School|710|1300 W Louden St, Philadelphia, PA 19141|K8 School|District|2.0|0.0|11.0|4|||44.0|0.0|0.0|0.0|109.0|2.0|1.0|0.0|4.0|16.0|3.0|0.0|1.0|0.0|13.0|17.0|0.0|35.0|9.0|64.0|68.0
+Warren G. Harding School|711|2000 Wakeling St, Philadelphia, PA 19124|Middle School|District|1.0|48.0|11.0|22|40.013575|-75.073804|137.0|0.0|1.0|0.0|305.0|13.0|3.0|0.0|12.0|19.0|9.0|11.0|0.0|0.0|33.0|57.0|6.0|35.0|29.0|192.0|3.0
+Samuel Fels High School|712|5500 Langdon St, Philadelphia, PA 19124|High School|District|1.0|20.0|10.0|11|40.0374943|-75.089197|127.0|0.0|1.0|2.0|130.0|32.0|8.0|0.0|10.0|6.0|23.0|0.0|0.0|0.0|34.0|41.0|20.0|23.0|31.0|197.0|0.0
+General Louis Wagner School|713|1701 Chelten Ave, Philadelphia, PA 19126|Middle School|District|1.0|60.0|22.0|30|40.051277|-75.147144|38.0|0.0|1.0|3.0|55.0|5.0|2.0|0.0|1.0|6.0|3.0|0.0|1.0|0.0|3.0|4.0|2.0|27.0|9.0|49.0|75.0
+Juniata Park Academy|715|801 E Hunting Park Ave, Philadelphia, PA 19124|K8 School|District|12.0|4.0|46.0|19|40.01260895|-75.111761864511|17.0|0.0|0.0|0.0|45.0|4.0|1.0|0.0|1.0|1.0|0.0|0.0|1.0|0.0|4.0|12.0|0.0|3.0|7.0|22.0|89.0
+Clara Barton School|720|4600 Rosehill St, Philadelphia, PA 19120|Elementary School|District|||55.0||40.019449|-75.119497|1.0|0.0|0.0|1.0|25.0|1.0|3.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|0.0|4.0|0.0|1.0|8.0|2.0|99.0
+Laura H. Carnell School|722|1100 Devereaux Ave, Philadelphia, PA 19111|Elementary School|District|8.0|45.0|27.0|28|40.038753|-75.083243|24.0|0.0|0.0|1.0|84.0|2.0|0.0|0.0|1.0|5.0|2.0|2.0|0.0|0.0|7.0|16.0|2.0|7.0|11.0|35.0|82.0
+Ellwood School|726|6701 N 13th St, Philadelphia, PA 19126|Elementary School|District|12.0|40.0|41.0|31|40.054845|-75.1389|5.0|0.0|0.0|0.0|59.0|1.0|0.0|0.0|3.0|3.0|0.0|0.0|0.0|0.0|1.0|7.0|0.0|2.0|4.0|9.0|95.0
+Thomas K. Finletter School|727|6100 N Front St, Philadelphia, PA 19120|K8 School|District|19.0|56.0|37.0|39|40.04306|-75.119865|20.0|0.0|0.0|1.0|68.0|5.0|1.0|0.0|2.0|2.0|0.0|0.0|2.0|0.0|6.0|20.0|1.0|10.0|4.0|29.0|85.0
+Benjamin Franklin School|728|5735 Rising Sun Ave, Philadelphia, PA 19120|K8 School|District|8.0|63.0|40.0|39|40.0419915365854|-75.1055422926829|54.0|0.0|1.0|0.0|75.0|2.0|2.0|0.0|1.0|4.0|4.0|0.0|0.0|0.0|9.0|17.0|5.0|13.0|16.0|69.0|65.0
+Allen M. Stearne School|729|1655 Unity St, Philadelphia, PA 19124|K8 School|District|2.0|51.0|5.0|20|40.0122058979592|-75.0868138979592|12.0|0.0|0.0|0.0|66.0|1.0|3.0|0.0|4.0|4.0|1.0|1.0|0.0|0.0|2.0|8.0|0.0|7.0|5.0|19.0|90.0
+Francis Hopkinson School|730|4001 L St, Philadelphia, PA 19124|K8 School|District|5.0|51.0|29.0|30|40.00783|-75.102706|16.0|1.0|0.0|0.0|24.0|3.0|2.0|0.0|0.0|6.0|0.0|0.0|0.0|0.0|0.0|5.0|0.0|17.0|4.0|16.0|92.0
+Feltonville Intermediate School|731|238 E Wyoming Ave, Philadelphia, PA 19120|Elementary School|District|9.0|57.0|68.0|46|40.0182165|-75.0974689|9.0|0.0|0.0|0.0|31.0|0.0|0.0|0.0|1.0|3.0|0.0|0.0|1.0|0.0|3.0|10.0|0.0|2.0|3.0|13.0|93.0
+Julia W. Howe School|732|5800 N 13th St, Philadelphia, PA 19141|Elementary School|District|8.0|63.0|22.0|31|||3.0|0.0|1.0|0.0|39.0|1.0|0.0|0.0|1.0|3.0|0.0|1.0|1.0|0.0|3.0|6.0|0.0|6.0|0.0|8.0|96.0
+Henry W. Lawton School|733|6101 Jackson St, Philadelphia, PA 19135|Elementary School|District|15.0|1.0|30.0|14|40.02073805|-75.05935815|1.0|0.0|0.0|0.0|19.0|0.0|1.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|1.0|2.0|0.0|2.0|3.0|2.0|99.0
+James R. Lowell School|735|450 W Nedro Ave, Philadelphia, PA 19120|Elementary School|District|11.0|51.0|48.0|38|||4.0|0.0|0.0|0.0|15.0|1.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|2.0|6.0|1.0|8.0|2.0|6.0|97.0
+John Marshall School|736|4500 Griscom St, Philadelphia, PA 19124|Elementary School|District|2.0|3.0|13.0|6|40.014854|-75.086874|9.0|0.0|0.0|0.0|64.0|2.0|0.0|0.0|0.0|5.0|0.0|0.0|1.0|0.0|1.0|5.0|0.0|2.0|5.0|10.0|95.0
+Grover Washington, Jr. School|737|201 E Olney Ave, Philadelphia, PA 19120|Middle School|District|10.0|25.0|35.0|23|40.0350147676768|-75.1186482424242|43.0|0.0|0.0|0.0|28.0|9.0|0.0|0.0|8.0|8.0|3.0|0.0|0.0|0.0|4.0|13.0|0.0|18.0|11.0|58.0|71.0
+Alexander K. McClure School|738|600 W Hunting Park Ave, Philadelphia, PA 19140|Elementary School|District|4.0|35.0|48.0|29|40.01534|-75.138165|0.0|0.0|2.0|1.0|28.0|1.0|1.0|0.0|0.0|2.0|2.0|0.0|0.0|0.0|5.0|9.0|1.0|8.0|8.0|10.0|95.0
+Andrew J. Morrison School|739|5100 N 3rd St, Philadelphia, PA 19120|K8 School|District|6.0|71.0|15.0|33|40.028542|-75.129404|25.0|0.0|1.0|5.0|36.0|4.0|1.0|0.0|1.0|2.0|0.0|0.0|0.0|0.0|2.0|5.0|0.0|3.0|5.0|34.0|83.0
+Olney School|740|5301 N Water St, Philadelphia, PA 19120|K8 School|District|17.0|90.0|47.0|54|40.030693|-75.121304|14.0|0.0|1.0|0.0|48.0|3.0|0.0|0.0|3.0|8.0|0.0|0.0|0.0|0.0|1.0|16.0|0.0|10.0|7.0|19.0|90.0
+James J. Sullivan School|743|5300 Ditman St, Philadelphia, PA 19124|Elementary School|District|8.0|40.0|18.0|23|40.015349|-75.066941|16.0|0.0|1.0|1.0|18.0|1.0|3.0|0.0|0.0|0.0|0.0|1.0|0.0|0.0|1.0|2.0|1.0|4.0|4.0|19.0|90.0
+Bayard Taylor School|744|3698 N Randolph St, Philadelphia, PA 19140|Elementary School|District|1.0|46.0|32.0|28|40.007411|-75.137982|4.0|0.0|0.0|0.0|19.0|0.0|1.0|1.0|0.0|0.0|0.0|1.0|0.0|0.0|3.0|1.0|1.0|20.0|4.0|7.0|96.0
+William H. Ziegler School|746|5935 Saul St, Philadelphia, PA 19149|K8 School|District|10.0|0.0|30.0|14|40.0301204864865|-75.0756170810811|10.0|0.0|1.0|0.0|21.0|1.0|1.0|0.0|2.0|0.0|0.0|0.0|0.0|0.0|3.0|3.0|0.0|2.0|6.0|16.0|92.0
+Bridesburg School|747|2824 Jenks St, Philadelphia, PA 19137|K8 School|District|30.0|76.0|44.0|52|40.0003716|-75.0666754|4.0|0.0|0.0|2.0|8.0|2.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|3.0|1.0|0.0|3.0|6.0|97.0
+Prince Hall School|749|6101 N Gratz St, Philadelphia, PA 19141|Elementary School|District|15.0|33.0|39.0|30|40.0478023|-75.1491980584641|7.0|0.0|0.0|0.0|49.0|1.0|2.0|1.0|2.0|0.0|0.0|0.0|0.0|0.0|3.0|3.0|0.0|6.0|1.0|12.0|94.0
+Feltonville School of Arts and Sciences|750|210 E Courtland St, Philadelphia, PA 19120|Middle School|District|3.0|75.0|53.0|46|||36.0|0.0|1.0|1.0|37.0|4.0|1.0|0.0|8.0|5.0|3.0|0.0|1.0|0.0|2.0|14.0|0.0|7.0|9.0|51.0|74.0
+Mary M. Bethune School|751|3301 Old York Rd, Philadelphia, PA 19140|K8 School|District|3.0|19.0|20.0|14|40.002827|-75.148722|12.0|0.0|0.0|0.0|25.0|4.0|0.0|0.0|1.0|1.0|0.0|0.0|0.0|0.0|2.0|5.0|0.0|5.0|7.0|15.0|92.0
+William Rowen School|753|6841 N 19th St, Philadelphia, PA 19126|Elementary School|District|19.0|8.0|46.0|23|40.0593200281937|-75.1486242780204|5.0|0.0|0.0|1.0|7.0|0.0|0.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|1.0|5.0|0.0|4.0|4.0|7.0|96.0
+Roberto Clemente School|773|122 W Erie Ave, Philadelphia, PA 19140|Middle School|District|0.0|0.0|14.0|4|||73.0|0.0|3.0|0.0|115.0|10.0|2.0|0.0|4.0|2.0|2.0|1.0|1.0|0.0|8.0|14.0|2.0|18.0|15.0|90.0|54.0
+Abraham Lincoln High School|801|3201 Ryan Ave, Philadelphia, PA 19136|High School|District|1.0|18.0|9.0|11|40.042985|-75.044728|111.0|2.0|1.0|0.0|149.0|19.0|7.0|1.0|4.0|16.0|12.0|2.0|3.0|0.0|42.0|43.0|4.0|54.0|23.0|170.0|14.0
+Northeast High School|802|1601 Cottman Ave, Philadelphia, PA 19111|High School|District|20.0|44.0|50.0|37|40.055323|-75.073063|95.0|0.0|0.0|2.0|85.0|25.0|5.0|0.0|1.0|3.0|23.0|0.0|2.0|0.0|26.0|22.0|4.0|11.0|28.0|147.0|25.0
+George Washington High School|803|10175 Bustleton Ave, Philadelphia, PA 19116|High School|District|7.0|25.0|31.0|21|40.1248028|-75.0148674|97.0|5.0|2.0|9.0|119.0|35.0|10.0|8.0|19.0|21.0|12.0|2.0|2.0|0.0|56.0|45.0|4.0|40.0|28.0|195.0|1.0
+Arts Academy at Benjamin Rush|804|11081 Knights Rd, Philadelphia, PA 19154|High School|District|52.0|41.0|76.0|56|40.082651|-74.975103|7.0|0.0|0.0|0.0|6.0|2.0|0.0|1.0|0.0|0.0|1.0|0.0|0.0|0.0|9.0|4.0|1.0|1.0|8.0|17.0|91.0
+Swenson Arts and Technology High School|809|2750 Red Lion Rd, Philadelphia, PA 19114|High School|District|15.0|20.0|65.0|31|40.080702|-74.9980292|19.0|0.0|0.0|0.0|43.0|9.0|1.0|0.0|0.0|4.0|3.0|0.0|3.0|0.0|6.0|16.0|0.0|14.0|4.0|28.0|86.0
+Woodrow Wilson School|812|1800 Cottman Ave, Philadelphia, PA 19111|Middle School|District|12.0|40.0|54.0|36|40.0524587|-75.0692024117947|66.0|0.0|0.0|1.0|120.0|2.0|1.0|0.0|5.0|14.0|11.0|1.0|1.0|0.0|13.0|17.0|3.0|69.0|19.0|96.0|51.0
+Austin Meehan School|814|3001 Ryan Ave, Philadelphia, PA 19152|Middle School|District|5.0|0.0|33.0|12|40.046383|-75.045168|52.0|0.0|0.0|1.0|74.0|2.0|5.0|3.0|4.0|19.0|2.0|0.0|0.0|0.0|4.0|18.0|1.0|21.0|12.0|63.0|68.0
+Baldi School|816|8801 Verree Rd, Philadelphia, PA 19115|Middle School|District|49.0|73.0|71.0|65|40.0932796|-75.0522046|14.0|0.0|0.0|1.0|21.0|4.0|0.0|0.0|0.0|4.0|0.0|0.0|0.0|0.0|5.0|6.0|1.0|2.0|5.0|20.0|90.0
+Ethan Allen School |820|6329 Battersby St, Philadelphia, PA 19149|K8 School|District|12.0|55.0|39.0|37|40.029414|-75.062691|21.0|1.0|0.0|0.0|45.0|0.0|1.0|0.0|1.0|3.0|0.0|1.0|0.0|0.0|3.0|2.0|0.0|6.0|4.0|25.0|87.0
+Joseph H. Brown School|821|3600 Stanwood St, Philadelphia, PA 19136|Elementary School|District|20.0|81.0|36.0|48|40.043828|-75.024555|0.0|0.0|0.0|0.0|26.0|0.0|0.0|0.0|1.0|1.0|0.0|2.0|0.0|0.0|1.0|7.0|0.0|1.0|1.0|2.0|99.0
+Kennedy C. Crossan School|823|7350 Bingham St, Philadelphia, PA 19111|Elementary School|District|32.0|10.0|70.0|36|40.061432755102|-75.0815740816327|0.0|0.0|0.0|0.0|11.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|1.0|0.0|100.0
+Hamilton Disston School|824|6801 Cottage St, Philadelphia, PA 19135|K8 School|District|8.0|53.0|14.0|27|40.028295|-75.04726|17.0|0.0|0.0|1.0|37.0|1.0|5.0|0.0|1.0|1.0|1.0|0.0|0.0|0.0|4.0|10.0|0.0|16.0|9.0|24.0|88.0
+Edwin Forrest School|825|7300 Cottage St, Philadelphia, PA 19136|Elementary School|District|18.0|4.0|41.0|19|40.033445|-75.03768|3.0|0.0|0.0|0.0|23.0|0.0|1.0|0.0|0.0|0.0|0.0|0.0|1.0|0.0|1.0|4.0|2.0|11.0|4.0|4.0|98.0
+Fox Chase School|826|500 Rhawn St, Philadelphia, PA 19111|Elementary School|District|40.0|36.0|81.0|51|40.076186|-75.081548|0.0|0.0|0.0|0.0|9.0|1.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|1.0|3.0|0.0|1.0|0.0|1.0|99.0
+Thomas Holme School|827|9125 Academy Rd, Philadelphia, PA 19114|Elementary School|District|42.0|75.0|57.0|59|40.0588613333333|-75.0088144166667|3.0|0.0|0.0|0.0|16.0|1.0|0.0|0.0|0.0|0.0|1.0|0.0|0.0|0.0|1.0|1.0|0.0|4.0|7.0|5.0|97.0
+Mayfair School|830|3001 Princeton Ave, Philadelphia, PA 19149|K8 School|District|35.0|3.0|59.0|30|40.039375|-75.053252|12.0|0.0|1.0|1.0|169.0|2.0|4.0|1.0|6.0|21.0|1.0|10.0|2.0|0.0|6.0|20.0|0.0|20.0|13.0|27.0|86.0
+J. Hampton Moore School|831|6900 Summerdale Ave, Philadelphia, PA 19111|Elementary School|District|26.0|70.0|74.0|58|40.04878|-75.076834|3.0|0.0|0.0|0.0|20.0|0.0|1.0|0.0|1.0|0.0|0.0|0.0|0.0|0.0|3.0|5.0|1.0|6.0|1.0|7.0|96.0
+Solomon Solis-Cohen School|834|7001 Horrocks St, Philadelphia, PA 19149|Elementary School|District|21.0|27.0|66.0|37|40.044791|-75.066365|3.0|0.0|0.0|1.0|103.0|2.0|6.0|0.0|4.0|0.0|0.0|0.0|0.0|0.0|1.0|3.0|1.0|31.0|7.0|9.0|95.0
+Gilbert Spruance School|835|6401 Horrocks St, Philadelphia, PA 19149|K8 School|District|12.0|10.0|41.0|20|40.037352|-75.07337|18.0|1.0|1.0|4.0|62.0|1.0|3.0|0.0|1.0|3.0|0.0|2.0|0.0|0.0|4.0|5.0|2.0|17.0|5.0|28.0|86.0
+Rhawnhurst School|836|7809 Castor Ave, Philadelphia, PA 19152|Elementary School|District|28.0|28.0|92.0|48|40.0584676|-75.0577569635171|0.0|0.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|1.0|0.0|1.0|1.0|1.0|1.0|99.0
+Watson Comly School|837|1001 Byberry Rd, Philadelphia, PA 19116|Elementary School|District|55.0|5.0|81.0|44|40.120669|-75.01026|3.0|1.0|1.0|0.0|17.0|1.0|1.0|0.0|3.0|3.0|0.0|1.0|0.0|0.0|3.0|2.0|0.0|1.0|4.0|10.0|95.0
+Louis H. Farrell School|838|8300 Castor Ave, Philadelphia, PA 19152|K8 School|District|25.0|44.0|72.0|47|40.0662654651163|-75.0521104186047|1.0|0.0|0.0|1.0|20.0|1.0|0.0|5.0|0.0|3.0|1.0|0.0|0.0|0.0|1.0|0.0|1.0|7.0|6.0|4.0|98.0
+A.L. Fitzpatrick School|839|11061 Knights Rd, Philadelphia, PA 19154|K8 School|District|27.0|69.0|42.0|48|40.08103|-74.976859|9.0|0.0|0.0|0.0|91.0|2.0|3.0|1.0|2.0|2.0|0.0|0.0|0.0|0.0|6.0|13.0|0.0|7.0|9.0|17.0|91.0
+Anne Frank School|840|2000 Bowler St, Philadelphia, PA 19115|Elementary School|District|64.0|81.0|88.0|78|40.088645|-75.028671|0.0|0.0|0.0|1.0|19.0|0.0|0.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|1.0|2.0|1.0|0.0|2.0|2.0|99.0
+Robert B. Pollock School|841|2875 Welsh Rd, Philadelphia, PA 19152|Elementary School|District|40.0|67.0|53.0|55|40.0624436666667|-75.028053|11.0|0.0|1.0|0.0|86.0|3.0|2.0|0.0|1.0|8.0|0.0|1.0|1.0|0.0|0.0|9.0|1.0|6.0|2.0|13.0|93.0
+Stephen Decatur School|842|3500 Academy Rd, Philadelphia, PA 19154|K8 School|District|35.0|72.0|64.0|58|40.091517|-74.9656466|3.0|0.0|0.0|0.0|37.0|0.0|0.0|0.0|0.0|1.0|0.0|0.0|0.0|0.0|0.0|1.0|0.0|6.0|4.0|3.0|98.0
+Joseph Greenberg School|843|600 Sharon Ln, Philadelphia, PA 19115|K8 School|District|75.0|65.0|88.0|75|40.09604|-75.057636|1.0|1.0|1.0|0.0|9.0|0.0|1.0|0.0|0.0|2.0|0.0|1.0|0.0|0.0|0.0|4.0|0.0|1.0|0.0|2.0|99.0
+William H. Loesche School|844|595 Tomlinson Rd, Philadelphia, PA 19116|Elementary School|District|57.0|62.0|82.0|67|40.1135619130435|-75.023832|2.0|0.0|4.0|1.0|44.0|0.0|1.0|0.0|0.0|5.0|0.0|1.0|1.0|0.0|1.0|2.0|2.0|2.0|0.0|8.0|96.0
+The Workshop School|856|221 S Hanson St, Philadelphia, PA 19139|High School|District|0.0|29.0|63.0|32|39.9557779387755|-75.2185873877551|1.0|0.0|0.0|0.0|2.0|2.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|1.0|0.0|0.0|0.0|1.0|2.0|99.0
+John Hancock Demonstration School|877|3700 Morrell Ave, Philadelphia, PA 19114|K8 School|District|50.0|58.0|62.0|56|40.06737345|-74.9891996744197|3.0|0.0|2.0|0.0|3.0|0.0|1.0|1.0|2.0|1.0|0.0|0.0|1.0|0.0|3.0|5.0|0.0|0.0|0.0|10.0|95.0
+Community Academy of Philadelphia Charter School |W01|1100 E Erie Ave, Philadelphia, PA 19124|High School|Charter|18.0|79.0|74.0|59|||||||||||||||||||||||
+Community Academy of Philadelphia Charter School |W01|1100 E Erie Ave, Philadelphia, PA 19124|High School|Charter|11.0|81.0|66.0|53|||||||||||||||||||||||
+Community Academy of Philadelphia Charter School |W01|1100 E Erie Ave, Philadelphia, PA 19124|K8 School|Charter|18.0|79.0|74.0|59|||||||||||||||||||||||
+Community Academy of Philadelphia Charter School |W01|1100 E Erie Ave, Philadelphia, PA 19124|K8 School|Charter|11.0|81.0|66.0|53|||||||||||||||||||||||
+Harambee Institute of Science and Technology Charter School|W02|640 N 66th St, Philadelphia, PA 19151|K8 School|Charter|13.0|39.0|81.0|44|39.9732138|-75.2520839108108|||||||||||||||||||||
+Christopher Columbus Charter School|W06|916 Christian St, Philadelphia, PA 19147|K8 School|Charter|48.0|77.0|93.0|74|39.9479577|-75.2314136|||||||||||||||||||||
+Eugenio Maria De Hostos Charter School|W07|6301 N 2nd St, Philadelphia, PA 19120|K8 School|Charter|33.0|43.0|82.0|52|40.046674|-75.123209|||||||||||||||||||||
+Inquiry Charter School|W08|1301 Belmont Ave, Philadelphia, PA 19104|Elementary School|Charter|||71.0|Not Eligible|39.974859|-75.212543|||||||||||||||||||||
+Imhotep Institute Charter High School|W09|6201 N 21st St, Philadelphia, PA 19138|High School|Charter|0.0|40.0|43.0|29|40.04969|-75.155388|||||||||||||||||||||
+Laboratory Charter School of Communication and Languages|W10|800 North Orianna St, Philadelphia, PA 19123|K8 School|Charter|44.0|16.0|42.0|32|||||||||||||||||||||||
+Multicultural Academy Charter School|W12|3821 N Broad St, Philadelphia, PA 19140|High School|Charter|8.0|93.0|82.0|59|40.0112002857143|-75.1506985306122|||||||||||||||||||||
+Preparatory Charter School of Mathematics, Science, Technology and Careers|W13|1928 Point Breeze Ave, Philadelphia, PA 19145|High School|Charter|9.0|29.0|55.0|32|39.9286447022384|-75.185189241095|||||||||||||||||||||
+West Oak Lane Charter School|W14|7115 Stenton Ave, Philadelphia, PA 19138|K8 School|Charter|23.0|26.0|70.0|39|40.057566|-75.161948|||||||||||||||||||||
+Alliance For Progress Charter School|W15|1821 N Cecil B Moore Ave, Philadelphia, PA 19121|K8 School|Charter|32.0|31.0|81.0|49|||||||||||||||||||||||
+Architecture and Design Charter School|W17|105 S 7th St, Philadelphia, PA 19106|High School|Charter|0.0|37.0|35.0|26|39.949275|-75.1522612040816|||||||||||||||||||||
+Freire Charter School|W18|2027 Chestnut St, Philadelphia, PA 19103|High School|Charter|15.0|100.0|71.0|66|39.9522059935338|-75.1740547635553|||||||||||||||||||||
+Freire Charter School|W18|2027 Chestnut St, Philadelphia, PA 19103|High School|Charter|20.0|83.0|49.0|53|39.9522059935338|-75.1740547635553|||||||||||||||||||||
+Freire Charter School|W18|2027 Chestnut St, Philadelphia, PA 19103|Middle School|Charter|15.0|100.0|71.0|66|39.9522059935338|-75.1740547635553|||||||||||||||||||||
+Freire Charter School|W18|2027 Chestnut St, Philadelphia, PA 19103|Middle School|Charter|20.0|83.0|49.0|53|39.9522059935338|-75.1740547635553|||||||||||||||||||||
+Math, Civics and Sciences Charter School|W21|447 N Broad St, Philadelphia, PA 19123|High School|Charter|0.0|31.0|68.0|31|39.9611527333333|-75.1615079333333|||||||||||||||||||||
+Math, Civics and Sciences Charter School|W21|447 N Broad St, Philadelphia, PA 19123|High School|Charter|15.0|43.0|69.0|44|39.9611527333333|-75.1615079333333|||||||||||||||||||||
+Math, Civics and Sciences Charter School|W21|447 N Broad St, Philadelphia, PA 19123|K8 School|Charter|0.0|31.0|68.0|31|39.9611527333333|-75.1615079333333|||||||||||||||||||||
+Math, Civics and Sciences Charter School|W21|447 N Broad St, Philadelphia, PA 19123|K8 School|Charter|15.0|43.0|69.0|44|39.9611527333333|-75.1615079333333|||||||||||||||||||||
+Philadelphia Academy Charter School|W22|11000 Roosevelt Blvd, Philadelphia, PA 19116|High School|Charter|65.0|81.0|96.0|81|40.1058477|-75.0004784|||||||||||||||||||||
+Philadelphia Academy Charter School|W22|11000 Roosevelt Blvd, Philadelphia, PA 19116|High School|Charter|15.0|37.0|67.0|40|40.1058477|-75.0004784|||||||||||||||||||||
+Philadelphia Academy Charter School|W22|11000 Roosevelt Blvd, Philadelphia, PA 19116|K8 School|Charter|65.0|81.0|96.0|81|40.1058477|-75.0004784|||||||||||||||||||||
+Philadelphia Academy Charter School|W22|11000 Roosevelt Blvd, Philadelphia, PA 19116|K8 School|Charter|15.0|37.0|67.0|40|40.1058477|-75.0004784|||||||||||||||||||||
+Mastery Charter School at Hardy Williams|W23|5400 Warrington Ave, Philadelphia, PA 19143|High School|Charter|4.0|41.0|37.0|30|39.9415018|-75.2268478|||||||||||||||||||||
+Mastery Charter School at Hardy Williams|W23|5400 Warrington Ave, Philadelphia, PA 19143|High School|Charter|18.0|41.0|49.0|36|39.9415018|-75.2268478|||||||||||||||||||||
+Mastery Charter School at Hardy Williams|W23|5400 Warrington Ave, Philadelphia, PA 19143|K8 School|Charter|4.0|41.0|37.0|30|39.9415018|-75.2268478|||||||||||||||||||||
+Mastery Charter School at Hardy Williams|W23|5400 Warrington Ave, Philadelphia, PA 19143|K8 School|Charter|18.0|41.0|49.0|36|39.9415018|-75.2268478|||||||||||||||||||||
+Universal Institute Charter School|W26|800 S 15th St, Philadelphia, PA 19146|K8 School|Charter|20.0|81.0|53.0|53|39.913208|-75.173842|||||||||||||||||||||
+Mathematics, Science, and Technology Community Charter School (MaST)|W28|1800 E Byberry Rd, Philadelphia, PA 19116|High School|Charter|45.0|52.0|80.0|59|||||||||||||||||||||||
+Mathematics, Science, and Technology Community Charter School (MaST)|W28|1800 E Byberry Rd, Philadelphia, PA 19116|High School|Charter|73.0|14.0|97.0|58|||||||||||||||||||||||
+Mathematics, Science, and Technology Community Charter School (MaST)|W28|1800 E Byberry Rd, Philadelphia, PA 19116|K8 School|Charter|45.0|52.0|80.0|59|||||||||||||||||||||||
+Mathematics, Science, and Technology Community Charter School (MaST)|W28|1800 E Byberry Rd, Philadelphia, PA 19116|K8 School|Charter|73.0|14.0|97.0|58|||||||||||||||||||||||
+Young Scholars Charter School|W29|900 N Marshall St, Philadelphia, PA 19123|Middle School|Charter|24.0|83.0|93.0|69|||||||||||||||||||||||
+Franklin Towne Charter High School|W31|5301 Tacony St, Philadelphia, PA 19137|High School|Charter|67.0|93.0|90.0|82|40.0087958580304|-75.0682888710499|||||||||||||||||||||
+Mariana Bracetti Academy Charter School|W32|1840 Torresdale Ave, Philadelphia, PA 19124|High School|Charter|27.0|95.0|62.0|61|40.005979|-75.0950679183673|||||||||||||||||||||
+Mariana Bracetti Academy Charter School|W32|1840 Torresdale Ave, Philadelphia, PA 19124|High School|Charter|16.0|63.0|58.0|47|40.005979|-75.0950679183673|||||||||||||||||||||
+Mariana Bracetti Academy Charter School|W32|1840 Torresdale Ave, Philadelphia, PA 19124|K8 School|Charter|27.0|95.0|62.0|61|40.005979|-75.0950679183673|||||||||||||||||||||
+Mariana Bracetti Academy Charter School|W32|1840 Torresdale Ave, Philadelphia, PA 19124|K8 School|Charter|16.0|63.0|58.0|47|40.005979|-75.0950679183673|||||||||||||||||||||
+Esperanza Academy Charter School|W33|301 W Hunting Park Ave, Philadelphia, PA 19140|High School|Charter|5.0|100.0|58.0|57|40.014933|-75.1328195247609|||||||||||||||||||||
+Esperanza Academy Charter School|W33|301 W Hunting Park Ave, Philadelphia, PA 19140|High School|Charter|10.0|88.0|53.0|53|40.014933|-75.1328195247609|||||||||||||||||||||
+Esperanza Academy Charter School|W33|301 W Hunting Park Ave, Philadelphia, PA 19140|Middle School|Charter|5.0|100.0|58.0|57|40.014933|-75.1328195247609|||||||||||||||||||||
+Esperanza Academy Charter School|W33|301 W Hunting Park Ave, Philadelphia, PA 19140|Middle School|Charter|10.0|88.0|53.0|53|40.014933|-75.1328195247609|||||||||||||||||||||
+New Foundations Charter School|W34|8001 Torresdale Ave, Philadelphia, PA 19136|High School|Charter|25.0|49.0|69.0|46|40.035281|-75.02499|||||||||||||||||||||
+New Foundations Charter School|W34|8001 Torresdale Ave, Philadelphia, PA 19136|High School|Charter|54.0|16.0|88.0|50|40.035281|-75.02499|||||||||||||||||||||
+New Foundations Charter School|W34|8001 Torresdale Ave, Philadelphia, PA 19136|K8 School|Charter|25.0|49.0|69.0|46|40.035281|-75.02499|||||||||||||||||||||
+New Foundations Charter School|W34|8001 Torresdale Ave, Philadelphia, PA 19136|K8 School|Charter|54.0|16.0|88.0|50|40.035281|-75.02499|||||||||||||||||||||
+People for People Charter School|W35|800 N Broad St, Philadelphia, PA 19130|K8 School|Charter|5.0|48.0|42.0|33|||||||||||||||||||||||
+Philadelphia Performing Arts: A String Theory Charter School|W36|2600 S Broad St, Philadelphia, PA 19145|High School|Charter|23.0|60.0|74.0|52|||||||||||||||||||||||
+Philadelphia Performing Arts: A String Theory Charter School|W36|2600 S Broad St, Philadelphia, PA 19145|High School|Charter|46.0|75.0|78.0|67|||||||||||||||||||||||
+Philadelphia Performing Arts: A String Theory Charter School|W36|2600 S Broad St, Philadelphia, PA 19145|K8 School|Charter|23.0|60.0|74.0|52|||||||||||||||||||||||
+Philadelphia Performing Arts: A String Theory Charter School|W36|2600 S Broad St, Philadelphia, PA 19145|K8 School|Charter|46.0|75.0|78.0|67|||||||||||||||||||||||
+Global Leadership Academy Charter School|W37|4601 W Girard Ave, Philadelphia, PA 19131|K8 School|Charter|11.0|23.0|76.0|36|39.973118|-75.21406|||||||||||||||||||||
+Independence Charter School|W41|1600 Lombard St, Philadelphia, PA 19146|K8 School|Charter|55.0|47.0|92.0|63|39.944995|-75.168713|||||||||||||||||||||
+Khepera Charter School|W50|926 W Sedgley Ave, Philadelphia, PA 19119|K8 School|Charter|0.0|1.0|11.0|4|40.001715|-75.144958|||||||||||||||||||||
+KIPP DuBois Charter School|W53|5070 Parkside Ave, Philadelphia, PA 19131|High School|Charter|2.0|35.0|50.0|29|39.980419|-75.2208084285714|||||||||||||||||||||
+Philadelphia Electrical and Technology Charter School|W58|1420 Chestnut St, Philadelphia, PA 19102|High School|Charter|7.0|88.0|36.0|47|39.9508456326531|-75.1644474285714|||||||||||||||||||||
+Richard Allen Preparatory Charter School|W59|2601 S 58th St, Philadelphia, PA 19143|Middle School|Charter|4.0|21.0|36.0|20|39.928026|-75.219118|||||||||||||||||||||
+Russell Byers Charter School|W60|1911 Arch St, Philadelphia, PA 19103|Elementary School|Charter|37.0|2.0|83.0|38|39.95585225|-75.1716192829961|||||||||||||||||||||
+Mastery Charter School at Lenfest Campus|W61|35 S 4th St, Philadelphia, PA 19106|High School|Charter|13.0|49.0|50.0|40|||||||||||||||||||||||
+Mastery Charter School at Lenfest Campus|W61|35 S 4th St, Philadelphia, PA 19106|High School|Charter|11.0|38.0|24.0|25|||||||||||||||||||||||
+Mastery Charter School at Lenfest Campus|W61|35 S 4th St, Philadelphia, PA 19106|Middle School|Charter|13.0|49.0|50.0|40|||||||||||||||||||||||
+Mastery Charter School at Lenfest Campus|W61|35 S 4th St, Philadelphia, PA 19106|Middle School|Charter|11.0|38.0|24.0|25|||||||||||||||||||||||
+Wissahickon Charter School|W62|4700 Wissahickon Ave, Philadelphia, PA 19144|K8 School|Charter|25.0|36.0|75.0|45|40.0169754|-75.1725506|||||||||||||||||||||
+First Philadelphia Preparatory Charter School|W64|4300 Tacony St, Philadelphia, PA 19124|High School|Charter|16.0|64.0|47.0|44|40.006894|-75.082723|||||||||||||||||||||
+First Philadelphia Preparatory Charter School|W64|4300 Tacony St, Philadelphia, PA 19124|High School|Charter|2.0|32.0|40.0|25|40.006894|-75.082723|||||||||||||||||||||
+First Philadelphia Preparatory Charter School|W64|4300 Tacony St, Philadelphia, PA 19124|K8 School|Charter|16.0|64.0|47.0|44|40.006894|-75.082723|||||||||||||||||||||
+First Philadelphia Preparatory Charter School|W64|4300 Tacony St, Philadelphia, PA 19124|K8 School|Charter|2.0|32.0|40.0|25|40.006894|-75.082723|||||||||||||||||||||
+Green Woods Charter School|W65|468 Domino Lane, Philadelphia, PA 19128|K8 School|Charter|65.0|95.0|86.0|83|40.0446463972691|-75.2334205664175|||||||||||||||||||||
+Maritime Academy Charter School (MACHS)|W66|2275 Bridge St, Philadelphia, PA 19137|High School|Charter|28.0|69.0|76.0|59|40.00911424|-75.06891212|||||||||||||||||||||
+Maritime Academy Charter School (MACHS)|W66|2275 Bridge St, Philadelphia, PA 19137|High School|Charter|15.0|42.0|65.0|37|40.00911424|-75.06891212|||||||||||||||||||||
+Maritime Academy Charter School (MACHS)|W66|2275 Bridge St, Philadelphia, PA 19137|K8 School|Charter|28.0|69.0|76.0|59|40.00911424|-75.06891212|||||||||||||||||||||
+Maritime Academy Charter School (MACHS)|W66|2275 Bridge St, Philadelphia, PA 19137|K8 School|Charter|15.0|42.0|65.0|37|40.00911424|-75.06891212|||||||||||||||||||||
+Belmont Charter School|W68|4030 Brown St, Philadelphia, PA 19104|K8 School|Charter|10.0|0.0|42.0|16|39.9673323658537|-75.2045127926829|||||||||||||||||||||
+KIPP Philadelphia Charter School|W70|2539 N 16th St, Philadelphia, PA 19132|K8 School|Charter|7.0|21.0|59.0|Closed|39.9924290612245|-75.1581080816326|||||||||||||||||||||
+KIPP Philadelphia Charter School|W70|2539 N 16th St, Philadelphia, PA 19132|K8 School|Charter|21.0|2.0|53.0|24|39.9924290612245|-75.1581080816326|||||||||||||||||||||
+Discovery Charter School|W72|4700 Parkside Ave, Philadelphia, PA 19131|K8 School|Charter|21.0|89.0|85.0|68|39.97777|-75.21366|||||||||||||||||||||
+Philadelphia Montessori Charter School|W78|2227 Island Ave, Philadelphia, PA 19142|Elementary School|Charter|23.0|22.0|76.0|41|39.9170019795918|-75.2460402040816|||||||||||||||||||||
+Ad Prima Charter School|W79|1922 N 63rd St, Philadelphia, PA 19151|K8 School|Charter|26.0|10.0|66.0|32|39.9839775306122|-75.2472746326531|||||||||||||||||||||
+Mastery Charter School at Shoemaker Campus|W83|5301 Media St, Philadelphia, PA 19131|High School|Charter|16.0|90.0|66.0|60|39.9754707244898|-75.228993122449|||||||||||||||||||||
+Mastery Charter School at Shoemaker Campus|W83|5301 Media St, Philadelphia, PA 19131|High School|Charter|5.0|51.0|68.0|40|39.9754707244898|-75.228993122449|||||||||||||||||||||
+Mastery Charter School at Shoemaker Campus|W83|5301 Media St, Philadelphia, PA 19131|Middle School|Charter|16.0|90.0|66.0|60|39.9754707244898|-75.228993122449|||||||||||||||||||||
+Mastery Charter School at Shoemaker Campus|W83|5301 Media St, Philadelphia, PA 19131|Middle School|Charter|5.0|51.0|68.0|40|39.9754707244898|-75.228993122449|||||||||||||||||||||
+Folks Arts Culture Treasures Charter School|W84|1023 Callowhill St, Philadelphia, PA 19123|K8 School|Charter|68.0|74.0|95.0|79|39.958416|-75.152749|||||||||||||||||||||
+Mastery Charter School at Thomas Campus|W85|927 Johnston St, Philadelphia, PA 19148|High School|Charter|9.0|25.0|50.0|27|39.914553|-75.163735|||||||||||||||||||||
+Mastery Charter School at Thomas Campus|W85|927 Johnston St, Philadelphia, PA 19148|High School|Charter|25.0|56.0|58.0|47|39.914553|-75.163735|||||||||||||||||||||
+Mastery Charter School at Thomas Campus|W85|927 Johnston St, Philadelphia, PA 19148|K8 School|Charter|9.0|25.0|50.0|27|39.914553|-75.163735|||||||||||||||||||||
+Mastery Charter School at Thomas Campus|W85|927 Johnston St, Philadelphia, PA 19148|K8 School|Charter|25.0|56.0|58.0|47|39.914553|-75.163735|||||||||||||||||||||
+Northwood Academy Charter School|W86|4621 Castor Ave, Philadelphia, PA 19124|K8 School|Charter|39.0|27.0|81.0|48|40.0191436|-75.0963433|||||||||||||||||||||
+Boys Latin of Philadelphia Charter School|W88|5501 Cedar Ave, Philadelphia, PA 19143|High School|Charter|3.0|48.0|67.0|36|39.951287|-75.232933|||||||||||||||||||||
+Boys Latin of Philadelphia Charter School|W88|5501 Cedar Ave, Philadelphia, PA 19143|High School|Charter|4.0|47.0|47.0|34|39.951287|-75.232933|||||||||||||||||||||
+Boys Latin of Philadelphia Charter School|W88|5501 Cedar Ave, Philadelphia, PA 19143|Middle School|Charter|3.0|48.0|67.0|36|39.951287|-75.232933|||||||||||||||||||||
+Boys Latin of Philadelphia Charter School|W88|5501 Cedar Ave, Philadelphia, PA 19143|Middle School|Charter|4.0|47.0|47.0|34|39.951287|-75.232933|||||||||||||||||||||
+Keystone Academy Charter School|W89|4521 Longshore Ave, Philadelphia, PA 19135|K8 School|Charter|47.0|70.0|76.0|65|40.0274530816327|-75.044271|||||||||||||||||||||
+Southwest Leadership Academy Charter School|W92|7101 Paschall Ave, Philadelphia, PA 19142|K8 School|Charter|20.0|29.0|85.0|44|39.918441|-75.241995|||||||||||||||||||||
+Mastery Charter School at Pickett Campus|W93|5700 Wayne Ave, Philadelphia, PA 19144|High School|Charter|7.0|65.0|33.0|39|40.03187625|-75.18193615|||||||||||||||||||||
+Mastery Charter School at Pickett Campus|W93|5700 Wayne Ave, Philadelphia, PA 19144|High School|Charter|3.0|68.0|24.0|35|40.03187625|-75.18193615|||||||||||||||||||||
+Mastery Charter School at Pickett Campus|W93|5700 Wayne Ave, Philadelphia, PA 19144|Middle School|Charter|7.0|65.0|33.0|39|40.03187625|-75.18193615|||||||||||||||||||||
+Mastery Charter School at Pickett Campus|W93|5700 Wayne Ave, Philadelphia, PA 19144|Middle School|Charter|3.0|68.0|24.0|35|40.03187625|-75.18193615|||||||||||||||||||||
+Pan American Academy Charter School|W94|2830 N American St, Philadelphia, PA 19133|K8 School|Charter|13.0|56.0|72.0|47|||||||||||||||||||||||
+Antonia Pantoja Charter School|W95|4101 N American St, Philadelphia, PA 19140|K8 School|Charter|23.0|88.0|80.0|65|40.01307675|-75.1308000395108|||||||||||||||||||||
+KIPP West Philadelphia Preparatory Charter School|W96|5900 Baltimore Ave, Philadelphia, PA 19143|Middle School|Charter|8.0|82.0|58.0|52|39.945169|-75.241869|||||||||||||||||||||
+Eastern University Academy Charter School|W97|3300 Henry Ave, Philadelphia, PA 19129|High School|Charter|0.0|25.0|43.0|23|40.0105564141414|-75.1813271212121|||||||||||||||||||||
+Eastern University Academy Charter School|W97|3300 Henry Ave, Philadelphia, PA 19129|High School|Charter|3.0|47.0|42.0|29|40.0105564141414|-75.1813271212121|||||||||||||||||||||
+Eastern University Academy Charter School|W97|3300 Henry Ave, Philadelphia, PA 19129|Middle School|Charter|0.0|25.0|43.0|23|40.0105564141414|-75.1813271212121|||||||||||||||||||||
+Eastern University Academy Charter School|W97|3300 Henry Ave, Philadelphia, PA 19129|Middle School|Charter|3.0|47.0|42.0|29|40.0105564141414|-75.1813271212121|||||||||||||||||||||
+Sankofa Freedom Academy Charter School|W99|2501 Kensington Ave, Philadelphia, PA 19125|High School|Charter|10.0|79.0|28.0|39|39.988177|-75.12831|||||||||||||||||||||
+Sankofa Freedom Academy Charter School|W99|2501 Kensington Ave, Philadelphia, PA 19125|High School|Charter|2.0|66.0|31.0|35|39.988177|-75.12831|||||||||||||||||||||
+Sankofa Freedom Academy Charter School|W99|2501 Kensington Ave, Philadelphia, PA 19125|K8 School|Charter|10.0|79.0|28.0|39|39.988177|-75.12831|||||||||||||||||||||
+Sankofa Freedom Academy Charter School|W99|2501 Kensington Ave, Philadelphia, PA 19125|K8 School|Charter|2.0|66.0|31.0|35|39.988177|-75.12831|||||||||||||||||||||
+Franklin Towne Charter Elementary School|X03|4259 Richmond St, Philadelphia, PA 19137|K8 School|Charter|62.0|84.0|89.0|79|39.9959146938776|-75.076016122449|||||||||||||||||||||
+Tacony Academy Charter School|X04|1330 Rhawn St, Philadelphia, PA 19111|High School|Charter|36.0|74.0|66.0|60|40.069258826087|-75.0686282173913|||||||||||||||||||||
+Tacony Academy Charter School|X04|1330 Rhawn St, Philadelphia, PA 19111|High School|Charter|0.0|48.0|53.0|32|40.069258826087|-75.0686282173913|||||||||||||||||||||
+Tacony Academy Charter School|X04|1330 Rhawn St, Philadelphia, PA 19111|K8 School|Charter|36.0|74.0|66.0|60|40.069258826087|-75.0686282173913|||||||||||||||||||||
+Tacony Academy Charter School|X04|1330 Rhawn St, Philadelphia, PA 19111|K8 School|Charter|0.0|48.0|53.0|32|40.069258826087|-75.0686282173913|||||||||||||||||||||
+Aspira Charter School at Stetson|X06|3200 B St, Philadelphia, PA 19134|Middle School|Charter|0.0|73.0|46.0|42|39.998178|-75.125461|||||||||||||||||||||
+Mastery Charter School at Harrity|X07|5601 Christian St, Philadelphia, PA 19143|K8 School|Charter|19.0|87.0|39.0|52|39.948534|-75.23562|||||||||||||||||||||
+Mastery Charter School at Mann|X08|5376 W Berks St, Philadelphia, PA 19131|Elementary School|Charter|35.0|85.0|48.0|58|39.9859157407407|-75.2312900740741|||||||||||||||||||||
+Mastery Charter School at Smedley|X09|1790 Bridge St, Philadelphia, PA 19124|Elementary School|Charter|28.0|34.0|55.0|39|40.0202886129032|-75.0740681612903|||||||||||||||||||||
+Universal Charter School at Bluford|X10|5720 Media St, Philadelphia, PA 19131|Elementary School|Charter|20.0|97.0|87.0|71|39.974802|-75.2352648367347|||||||||||||||||||||
+Universal Charter School at Daroff|X11|5630 Vine St, Philadelphia, PA 19139|K8 School|Charter|7.0|10.0|29.0|15|39.9655972040816|-75.2325854897959|||||||||||||||||||||
+Frederick Douglass Mastery Charter School|X12|2118 W Norris St, Philadelphia, PA 19121|K8 School|Charter|5.0|73.0|18.0|35|39.9867284|-75.1841343|||||||||||||||||||||
+Aspira Charter School at Olney|X14|100 W Duncannon Ave, Philadelphia, PA 19120|High School|Charter|0.0|27.0|41.0|20|||||||||||||||||||||||
+Mastery Charter School at Clymer|X15|1201 W Rush St, Philadelphia, PA 19133|Elementary School|Charter|17.0|76.0|58.0|53|39.995671|-75.150488|||||||||||||||||||||
+Mastery Charter School at Gratz|X16|1798 W Hunting Park Ave, Philadelphia, PA 19140|High School|Charter|9.0|75.0|34.0|43|40.014611|-75.156459|||||||||||||||||||||
+Mastery Charter School at Gratz|X16|1798 W Hunting Park Ave, Philadelphia, PA 19140|High School|Charter|0.0|20.0|14.0|12|40.014611|-75.156459|||||||||||||||||||||
+Mastery Charter School at Gratz|X16|1798 W Hunting Park Ave, Philadelphia, PA 19140|Middle School|Charter|9.0|75.0|34.0|43|40.014611|-75.156459|||||||||||||||||||||
+Mastery Charter School at Gratz|X16|1798 W Hunting Park Ave, Philadelphia, PA 19140|Middle School|Charter|0.0|20.0|14.0|12|40.014611|-75.156459|||||||||||||||||||||
+Universal Charter School at Audenried|X17|3301 Tasker St, Philadelphia, PA 19145|High School|Charter|0.0|19.0|58.0|22|39.934558|-75.199304|||||||||||||||||||||
+Universal Charter School at Vare|X18|2100 S 24th St, Philadelphia, PA 19145|Middle School|Charter|7.0|89.0|29.0|45|||||||||||||||||||||||
+General David B.ÃƒÂ‚Ã‚Â BirneyÃƒÂ‚Ã‚Â Charter School|X19|900 Lindley Ave, Philadelphia, PA 19141|K8 School|Charter|8.0|65.0|41.0|41|40.029575|-75.138993|||||||||||||||||||||
+Mastery Charter School at Cleveland|X20|3701 N 19th St, Philadelphia, PA 19140|K8 School|Charter|12.0|67.0|41.0|42|40.010394|-75.159043|||||||||||||||||||||
+Universal Charter School at Creighton|X21|5401 Tabor Ave, Philadelphia, PA 19120|K8 School|Charter|34.0|93.0|61.0|65|40.034148|-75.105752|||||||||||||||||||||
+Philadelphia Charter School for the Arts and Sciences|X22|1197 Haworth St, Philadelphia, PA 19124|K8 School|Charter|16.0|32.0|56.0|34|40.02491115|-75.0866203292728|||||||||||||||||||||
+Memphis Street Academy Charter School at J.P. Jones|X23|2950 Memphis St, Philadelphia, PA 19134|Middle School|Charter|1.0|94.0|35.0|47|39.9858767142857|-75.1128803265306|||||||||||||||||||||
+Universal Charter School at Alcorn|X24|3200 Dickinson St, Philadelphia, PA 19146|K8 School|Charter|15.0|83.0|62.0|56|39.935393|-75.197442|||||||||||||||||||||
+Mastery Charter School at Pastorius |X26|5650 Sprague St, Philadelphia, PA 19138|K8 School|Charter|8.0|29.0|30.0|23|40.0475195306122|-75.1601147346939|||||||||||||||||||||
+Mastery Charter School at Wister|X27|67 E Bringhurst St, Philadelphia, PA 19144|Elementary School|Charter|7.0|51.0|27.0|31|40.0322743333333|-75.167095|||||||||||||||||||||
+Global Leadership Academy at Huey|X28|5200 Pine St, Philadelphia, PA 19143|K8 School|Charter|1.0|22.0|49.0|24|39.953465|-75.226398|||||||||||||||||||||
+MaST Community Charter School II|X40|6238 Rising Sun Ave, Philadelphia, PA 19111|Elementary School|Charter|56.0||93.0|75|40.0473987142857|-75.0978675306122|||||||||||||||||||||
+TECH Freire Charter School|X41|2221 N Broad St, Philadelphia, PA 19132|High School|Charter|1.0|28.0|12.0|15|39.9866667142857|-75.1560840204082|||||||||||||||||||||
+Independence Charter School West|X42|5600 Chester Ave, Philadelphia, PA 19143|Elementary School|Charter|20.0||88.0|57|39.937247|-75.226226|||||||||||||||||||||
