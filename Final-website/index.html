@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head> 
     <meta charset="utf-8">
     <title>Theme Preview - Usebootstrap.com</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,7 +31,7 @@
               <ul class="dropdown-menu" aria-labelledby="themes">
                 <li><a href="#">Academic Acheivement</a></li>
                 <li><a href="#">School Saftey</a></li>
-                <li><a href="#">Special Education</a></li>
+                <li><a href="special_education.html">Special Education</a></li>
 			</li>
 		  </ul>
             <li class="dropdown">
@@ -59,26 +59,64 @@
       </div>
     </div>
 
-
+<h1 align="center">Philadelphia Schools Visualization</h1>
     <div class="container">
-	<table style="width:100% padding:10px">
+	<table cellpadding="10" style="width:100% padding:10px">
 		  <tr>
-				<th colspan="3"><img src="district_map.JPG" alt="Philly Schools Mapped" style="width:400px;height:300px; float: left;"></th>
-				<th colspan="3"><p class="bs-component"> The School District of Philadelphia offers over 300 hundred different schools. We look to give parents and caretakers in Philadelphia 
-				the information they need to select the best school for their child. The <a href ="https://dashboards.philasd.org/extensions/philadelphia/index.html">current tools</a> 
-				provide a series of detailed dashboards for each individual school that make it difficult to compare and contrast schools simulataneously,
-				which hinders parents' ability to efficiently analyze their options.  </p>
+				<th colspan="3"><img src="school_bus.png" alt="Philly School Bus" style="width:400px;height:300px; float: left;"></th>
+				<th colspan="3">
+          <h4>The School District of Philadelphia offers over 300 hundred different schools. We look to give parents and caretakers in Philadelphia 
+        the information they need to select the best school for their child.</h4>
+          <!-- <p class="bs-component" style="font-size:18px"> The School District of Philadelphia offers over 300 hundred different schools. We look to give parents and caretakers in Philadelphia 
+				the infor mation they need to select the best school for their child. </p> -->
 				<p> </p>
 				<p align="center">
 					<button type="button" class="btn btn-success" ><a href="school-selector.html">Start Comparing</a></button>
 				</p>
+				<p align="center">
+				<button type="button" class="btn btn-success" ><a href="special_education_selector.html">Start Comparing Special Needs Schools</a></button>
+				</p>
+
+        <p align="center">
+        <button type="button" class="btn btn-success" ><a href="use-cases.html">See Example Use Cases</a></button>
+        </p>
+
 				</th>
 			</tr>
+      <tr>
+        <td colspan="3"><img src="school_stock_photo1.jpeg" alt="chalkboard" style="width:400px;height:300px; float: left;"></td>
+        <td>
+          <h2>Project Goal</h2>
+          <p>
+          We are focused on giving parents in Philadelphia the information they need to select the best school for their child by aggregating all the data available. This tool is designed to help guide decisions about the most appropriate school based off each individual’s needs.
+
+          In Philadelphia, parents can decide between sending their kids to the public school in their area or to one of several charter schools across the city. Parents might be concerned with comparing their local public school to charter schools in terms of distance, educational quality, safety, and student outcomes, and our goal is to allow parents to prioritize those criteria effectively.
+          </p>
+        <h2>Target Audience</h2>
+          <p>
+            This visualization is intended for parents and caretakers with children who go to school in Philadelphia and who are looking for the right school to send their child to.
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3"><img src="philly_academy_charter.png" alt="chalkboard" style="width:400px;height:300px; float: left;"></td>
+        <td>
+        <h2>Data</h2>
+          <p>
+            The data is provided by the City of Philadelphia, specifically OpenDataPhilly which is the official open data repository for the City. The City of Philadelphia provides access to many city-wide data sets including 21 datasets related to the School District of Philadelphia, which contain information such as school progress report data, standardized test scores, graduation rates, and safety information.
+          </p>
+        <h2>What Our Visualization Shows</h2>
+        <p>
+        Our visualization shows high level aggregated metrics as well as more detailed breakdowns and ultimately allows you to compare different schools to find the right school for your child. You can start by filtering to a region of the city that you’re interested in, then see overall performance scores, followed by a breakdown of standardized test scores and safety information. For parents with special needs children, there is another tab with a detailed look at schools’ test scores for IEP (Individualized Education Program) students.
+        </p>     
+
+        </td>
+      </tr>
+
 	</table>
     </div>
 
-     
-
+  
 
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="bootstrap/bootstrap.min.js"></script>
