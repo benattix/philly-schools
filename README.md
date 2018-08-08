@@ -19,7 +19,7 @@ In Philadelphia, parents can decide between sending their kids to the public sch
 We obtained our data from [OpenDataPhilly](https://opendataphilly.org/dataset?organization=school-district-of-philadelphia), the official open data repository for the City of Philadelphia. OpenDataPhilly contains 21 datasets related to the School District of Philadelphia.
 
 ## Final Website
-* The final website with our working visualization can be found [here](http://people.ischool.berkeley.edu/~jennifer.p/Final-website/).
+The final website with our working visualization can be found [here](http://people.ischool.berkeley.edu/~jennifer.p/Final-website/).
 
 ## License
 This project is licensed under the [MIT license](https://github.com/benattix/philly-schools/blob/master/LICENSE)
