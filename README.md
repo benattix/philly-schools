@@ -20,7 +20,8 @@ We obtained our data from [OpenDataPhilly](https://opendataphilly.org/dataset?or
 
 ## Final Website
 The final website with our working visualization can be found [here](http://people.ischool.berkeley.edu/~jennifer.p/Final-website/).
-![dashboard pic] "all_schools.jpg" 
+
+![dashboard pic] "/all_schools.jpg" 
 
 ## License
 This project is licensed under the [MIT license](https://github.com/benattix/philly-schools/blob/master/LICENSE)
